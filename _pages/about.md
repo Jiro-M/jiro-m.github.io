@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Shaowen Miao"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -11,8 +11,14 @@ redirect_from:
 About me
 ======
 I was born in July 2000, Ningde, Fujian, China.
-I received the B. S. degree in Automation, Fuzhou University (FZU), 2022.
-I'm a Master student of Xiamen University (XMU), supervised by Prof. Aiwen Lai.
+
+I received the B. S. degree in [Automation](https://dqxy.fzu.edu.cn/en/), [Fuzhou University (FZU)](https://en.fzu.edu.cn/), 2022.
+
+I'm a Master student of [Department of Automation](https://auto.xmu.edu.cn/) at [Xiamen University (XMU)](https://en.xmu.edu.cn/main.htm), supervised by [Prof. Aiwen Lai](https://aivens123.github.io/aiwenlai.github.io/).
+
+My general research interests include Discrete-Event Systems (DES), Theoretical Computer Science, and Formal Methods, with a particular interest in state estimation (detectability, diagnosability, and opacity) and enforcement of weighted automata, and the application of Linear Temporal Logic (LTL) in DES.
+
+Email: miaosw0706@stu.xmu.edu.cn
 
 <!-- For more info
 ------
