@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Shaowen Miao"
+  name             : "Shaowen Miao （缪绍文）"
   avatar           : "profile.png"
-  bio              : "厦门大学研究生"
-  location         : "Location"
+  bio              : "First-year master student"
+  location         : "Xiamen"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://scholar.google.com"
-  email            :
+  email            : "miaosw0706@stu.xmu.edu.cn", "miaosw0706@gamil. com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/Jiro-M"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : # "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
