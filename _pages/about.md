@@ -8,15 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-- First item I was born in July 2000, Ningde, Fujian, China. (Yes, it is the "Ningde" of the "Ningde era" (CATL), but it has nothing to do with me)
+- I was born in July 2000, Ningde, Fujian, China. (Yes, it is the "Ningde" of the "Ningde era" (CATL), but it has nothing to do with me)
 
-- Second item I received the B. S. degree in [Automation](https://dqxy.fzu.edu.cn/en/), [Fuzhou University (FZU)](https://en.fzu.edu.cn/), 2022.
+- I received the B. S. degree in [Automation](https://dqxy.fzu.edu.cn/en/), [Fuzhou University (FZU)](https://en.fzu.edu.cn/), 2022.
 
-- Third item I'm a Master's student of [Department of Automation](https://auto.xmu.edu.cn/) at [Xiamen University (XMU)](https://en.xmu.edu.cn/main.htm), supervised by [Prof. Aiwen Lai](https://aivens123.github.io/aiwenlai.github.io/).
+- I'm a Master's student of [Department of Automation](https://auto.xmu.edu.cn/) at [Xiamen University (XMU)](https://en.xmu.edu.cn/main.htm), supervised by [Prof. Aiwen Lai](https://aivens123.github.io/aiwenlai.github.io/).
 
-- Fourth item My general research interests include Discrete-Event Systems (DES), Theoretical Computer Science, and Formal Methods, with a particular interest in state estimation (detectability, diagnosability, and opacity) and enforcement of weighted automata, and the application of Linear Temporal Logic (LTL) in DES.
+- My general research interests include Discrete-Event Systems (DES), Theoretical Computer Science, and Formal Methods, with a particular interest in state estimation (detectability, diagnosability, and opacity) and enforcement of weighted automata, and the application of Linear Temporal Logic (LTL) in DES.
 
-- Fifth item Email: miaosw0706@stu.xmu.edu.cn
+- Email: miaosw0706@stu.xmu.edu.cn
 
 <!-- For more info
 ------
