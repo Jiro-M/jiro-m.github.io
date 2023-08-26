@@ -21,6 +21,10 @@ redirect_from:
 - Formal Methods
 - Theoretical Computer Science (TCS)
 
+## Hobbies
+- Badminton, Basketball
+- Swimming, Middle-distance running
+- Rap music
 
 <!-- For more info
 ------
