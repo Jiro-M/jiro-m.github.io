@@ -14,7 +14,10 @@ redirect_from:
 
 - I'm a Master's student of [Department of Automation](https://auto.xmu.edu.cn/) at [Xiamen University (XMU)](https://en.xmu.edu.cn/main.htm), supervised by [Prof. Aiwen Lai](https://aivens123.github.io/aiwenlai.github.io/).
 
-- My general research interests include Discrete-Event Systems (DES), Theoretical Computer Science (TCS), and Formal Methods, with a particular interest in state estimation (detectability, diagnosability, opacity, and critical observability) and enforcement of weighted automata, and the application of Linear Temporal Logic (LTL) in DES.
+# Research Interests
+- Discrete-Event Systems (DES): state estimation and supervisory control of weighted automata
+- Formal Methods: linear temporal logic (LTL)
+- Theoretical Computer Science (TCS)
 
 - Email: [miaosw0706@stu.xmu.edu.cn](miaosw0706@stu.xmu.edu.cn)
 
