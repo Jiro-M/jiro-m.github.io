@@ -5,12 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
 {% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+1. Verification of Detectability for Unambiguous Weighted Automata using Self-Composition
+   Shaowen Miao, Aiwen Lai, Xiao Yu, S{\'e}bastien Lahaye, and Jan Komenda
+   in 9th International Conference on Control, Decision and Information Technologies
