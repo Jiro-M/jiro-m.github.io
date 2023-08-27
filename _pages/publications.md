@@ -9,11 +9,11 @@ author_profile: true
 
 1. [""]()  
    **Shaowen Miao**, Aiwen Lai*, Jan Komenda, and S&eacute;bastien Lahaye  
-   **$\color{rgb(033,158,188)}{\text{under rewiew}}$**. [[PDF]]()
+   $\color{blue}{\textbf{\text{under rewiew}}}$. [[PDF]]()
 
 2. [""]()  
    **Shaowen Miao**, Aiwen Lai*, Jan Komenda, and S&eacute;bastien Lahaye  
-   **$\color{rgb(033,158,188)}{\text{under rewiew}}$**. [[PDF]]()
+   **$\color{blue}{\text{under rewiew}}$**. [[PDF]]()
 
 <!-- 3. [""]()  
    **Shaowen Miao**, Aiwen Lai*, Jan Komenda, and Alessandro Giua  
