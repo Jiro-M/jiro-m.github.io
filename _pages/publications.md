@@ -10,13 +10,13 @@ author_profile: true
 # Journal Papers
 1. [""]()  
    **Shaowen Miao**, Aiwen Lai*, Jan Komenda, and S&eacute;bastien Lahaye  
-   $\color{DeepSkyBlue}{\text{under rewiew}}$. [[PDF]]()
+   $\color{RoyalBlue}{\text{under rewiew}}$. [[PDF]]()
 
 2. [""]()  
    **Shaowen Miao**, Aiwen Lai*, Jan Komenda, and S&eacute;bastien Lahaye  
-   $\color{DeepSkyBlue}{\text{under rewiew}}$. [[PDF]]()
+   $\color{RoyalBlue}{\text{under rewiew}}$. [[PDF]]()
 
-3. [""]()  
+<!-- 3. [""]()  
    **Shaowen Miao**, Aiwen Lai*, Jan Komenda, and Alessandro Giua  
    **$\color{Crimson}{\text{under rewiew}}$**. [[PDF]]()
 
@@ -24,13 +24,13 @@ author_profile: true
    Liren Shen, **Shaowen Miao**, Aiwen Lai*, and Jan Komenda  
    under rewiew. [[PDF]]()
 
-5. [""]()
-   Keru Chen, **Shaowen Miao**, Aiwen Lai, and Ji Ma*
+5. [""]()  
+   Keru Chen, **Shaowen Miao**, Aiwen Lai, and Ji Ma*  
    under rewiew. [[PDF]]()
 
 6. [""]()  
    Zhiyuan Huang, **Shaowen Miao**, Aiwen Lai, Xiao Yu*, and Weiyao Lan  
-   under rewiew. [[PDF]]()
+   under rewiew. [[PDF]]() -->
 
 # Conference Papers
 1. ["Verification of Detectability for Unambiguous Weighted Automata using Self-Composition"]()  

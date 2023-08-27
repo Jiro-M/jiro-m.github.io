@@ -9,17 +9,18 @@ author_profile: true
 
 # Education
 - **Xiamen University**
-    - M. S. in Control Engineering <span style="float:right"> Sept. 2022 - Present</span>
+    - M. Eng. in Control Engineering <span style="float:right"> Sept. 2022 - Present</span>
+    - Supervisor: [Prof. Aiwen Lai](https://aivens123.github.io/aiwenlai.github.io/)
 
 - **Fuzhou University**
-    - B. Eng in Automation <span style="float:right"> Sept. 2018 - June 2022</span>
-    - Minor in AI Experimental Class <span style="float:right"> Sept. 2019 - June 2022</span>
+    - B. Eng. in Automation <span style="float:right"> Sept. 2018 - June 2022</span>
+    - Minor in Artificial Intelligence <span style="float:right"> Sept. 2019 - June 2022</span>
 
 # Internship
 - **University of Angers**
     - Research Laboratory for Systems Engineering (LARIS) <span style="float:right"> May. 2023 - June 2023</span>
-    - Supervisor: S&eacute;bastien Lahaye
+    - Supervisor: [Prof. S&eacute;bastien Lahaye](http://perso-laris.univ-angers.fr/~lahaye/)
 
 - **Czech Academy of Sciences**
     - Institute of Mathematics <span style="float:right"> Feb. 2018 - Apr. 2022</span>
-    - Supervisor: Jan Komenda
+    - Supervisor: [Prof. Jan Komenda](https://www.math.cas.cz/index.php/members/researcher/50)
