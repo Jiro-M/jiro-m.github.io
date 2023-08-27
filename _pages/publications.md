@@ -1,19 +1,20 @@
 ---
 layout: archive
-title: "Journal Papers"
+# title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
 
 {% include base_path %}
 
+# Journal Papers
 1. [""]()  
    **Shaowen Miao**, Aiwen Lai*, Jan Komenda, and S&eacute;bastien Lahaye  
-   $\color{blue}{\textbf{\text{under rewiew}}}$. [[PDF]]()
+   **$\color{blue}{\text{under rewiew}}$**. [[PDF]]()
 
 2. [""]()  
    **Shaowen Miao**, Aiwen Lai*, Jan Komenda, and S&eacute;bastien Lahaye  
-   **$\color{blue}{\text{under rewiew}}$**. [[PDF]]()
+   $\color{blue}{\text{under rewiew}}$. [[PDF]]()
 
 <!-- 3. [""]()  
    **Shaowen Miao**, Aiwen Lai*, Jan Komenda, and Alessandro Giua  
