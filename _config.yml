@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shaowen Miao"
+title                    : "Shaowen Miao (缪绍文)"
 title_separator          : "-"
 name                     : &name "Shaowen Miao"
 description              : &description "personal description"
