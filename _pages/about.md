@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+{% include base_path %}
+
 # About me
 - I was born in July 2000, [Ningde](https://en.wikipedia.org/wiki/Ningde), Fujian, China.
 - I received the B. Eng. degree in [Automation](https://dqxy.fzu.edu.cn/en/), [Fuzhou University (FZU)](https://en.fzu.edu.cn/), 2022.
