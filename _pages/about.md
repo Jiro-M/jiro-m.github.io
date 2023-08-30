@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+# title: "About me"
 # excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,10 +8,9 @@ redirect_from:
   - /about.html
 ---
 
+# About me
 - I was born in July 2000, [Ningde](https://en.wikipedia.org/wiki/Ningde), Fujian, China.
-
 - I received the B. Eng. degree in [Automation](https://dqxy.fzu.edu.cn/en/), [Fuzhou University (FZU)](https://en.fzu.edu.cn/), 2022.
-
 - I'm a Master's student of [Department of Automation](https://auto.xmu.edu.cn/) at [Xiamen University (XMU)](https://en.xmu.edu.cn/main.htm), supervised by [Prof. Aiwen Lai](https://aivens123.github.io/aiwenlai.github.io/).
 
 - Email: [miaosw0706@stu.xmu.edu.cn](miaosw0706@stu.xmu.edu.cn)
