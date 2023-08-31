@@ -18,9 +18,9 @@ redirect_from:
 - Email: [miaosw0706@stu.xmu.edu.cn](miaosw0706@stu.xmu.edu.cn)
 
 # Research Interests
-- Discrete-Event Systems (DES)
-- Formal Methods
-- Theoretical Computer Science (TCS)
+- Discrete-Event Systems (DES): State Estimation, Supervisory Control
+- Formal Methods: Linear Temporal Logics (LTL)
+- Theoretical Computer Science (TCS): Complexity Theory
 
 ### Hobbies
 - Badminton, Basketball
