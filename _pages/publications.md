@@ -9,28 +9,28 @@ author_profile: true
 
 # Journal Papers
 1. [""]()  
-   **Shaowen Miao**, Aiwen Lai*, Jan Komenda, and S&eacute;bastien Lahaye<br>
-   <div><font color="RoyalBlue">under rewiew</font>. <a href="">[PDF]</a></div>
+   **Shaowen Miao**, Aiwen Lai*, Jan Komenda, and S&eacute;bastien Lahaye
+   <div><font color="RoyalBlue"><b>under rewiew</b></font>. <a href="">[PDF]</a></div>
 
 2. [""]()  
-   **Shaowen Miao**, Aiwen Lai*, Jan Komenda, and S&eacute;bastien Lahaye<br>
-   <div><font color="RoyalBlue">under rewiew</font>. <a href="">[PDF]</a></div>
+   **Shaowen Miao**, Aiwen Lai*, Jan Komenda, and S&eacute;bastien Lahaye
+   <div><font color="RoyalBlue"><b>under rewiew</b></font>. <a href="">[PDF]</a></div>
 
 <!-- 3. [""]()  
-   **Shaowen Miao**, Aiwen Lai*, Jan Komenda, and Alessandro Giua<br>
-   <font color="Crimson"><b>under rewiew</b></font>. [[PDF]]()
+   **Shaowen Miao**, Aiwen Lai*, Jan Komenda, and Alessandro Giua
+   <div><font color="Crimson"><b>under rewiew</b></font>. <a href="">[PDF]</a></div>
 
 4. [""]()  
-   Liren Shen, **Shaowen Miao**, Aiwen Lai*, and Jan Komenda<br>
-   under rewiew. [[PDF]]()
+   Liren Shen, **Shaowen Miao**, Aiwen Lai*, and Jan Komenda
+   <div><font color=""><b>under rewiew</b></font>. <a href="">[PDF]</a></div>
 
 5. [""]()  
-   Keru Chen, **Shaowen Miao**, Aiwen Lai, and Ji Ma*<br>
-   <font color="Lime"><b>under rewiew</b></font>. [[PDF]]()
+   Keru Chen, **Shaowen Miao**, Aiwen Lai, and Ji Ma*
+   <div><font color="Lime"><b>under rewiew</b></font>. <a href="">[PDF]</a></div>
 
 6. [""]()  
-   Zhiyuan Huang, **Shaowen Miao**, Aiwen Lai, Xiao Yu*, and Weiyao Lan<br>
-   <font color="LightCoral"><b>under rewiew</b></font>. [[PDF]]() -->
+   Zhiyuan Huang, **Shaowen Miao**, Aiwen Lai, Xiao Yu*, and Weiyao Lan
+   <div><font color="LightCoral"><b>under rewiew</b></font>. <a href="">[PDF]</a></div> -->
 
 # Conference Papers
 1. ["Verification of Detectability for Unambiguous Weighted Automata using Self-Composition"]()  
@@ -39,8 +39,8 @@ author_profile: true
 
 <!-- 2. [""]()  
    Liren Shen, **Shaowen Miao**, Aiwen Lai*, and Weiyao Lan<br>
-   under rewiew. [[PDF]]()
+   <div><font color="">under rewiew</font>. <a href="">[PDF]</a></div>
 
 3. [""]()  
    Guoqiang Xu, **Shaowen Miao**, Aiwen Lai*, and Weiyao Lan<br>
-   under rewiew. [[PDF]]() -->
+   <div><font color="">under rewiew</font>. <a href="">[PDF]</a></div> -->
