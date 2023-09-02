@@ -9,40 +9,38 @@ author_profile: true
 
 # Journal Papers
 1. [""]()  
-   **Shaowen Miao**, Aiwen Lai*, Jan Komenda, and S&eacute;bastien Lahaye  
-   <font color="RoyalBlue"><b>under rewiew</b></font>
-   $\color{RoyalBlue}{\text{under rewiew}}$. [[PDF]]()
+   **Shaowen Miao**, Aiwen Lai*, Jan Komenda, and S&eacute;bastien Lahaye<br>
+   <font color="RoyalBlue"><b>under rewiew</b></font>. [[PDF]]()
 
 2. [""]()  
-   **Shaowen Miao**, Aiwen Lai*, Jan Komenda, and S&eacute;bastien Lahaye  
-   $\color{RoyalBlue}{\text{under rewiew}}$. [[PDF]]()
+   **Shaowen Miao**, Aiwen Lai*, Jan Komenda, and S&eacute;bastien Lahaye<br>
+   <font color="RoyalBlue"><b>under rewiew</b></font>. [[PDF]]()
 
 <!-- 3. [""]()  
-   **Shaowen Miao**, Aiwen Lai*, Jan Komenda, and Alessandro Giua  
-   $\color{Crimson}{\text{under rewiew}}$. [[PDF]]()
+   **Shaowen Miao**, Aiwen Lai*, Jan Komenda, and Alessandro Giua<br>
+   <font color="Crimson"><b>under rewiew</b></font>. [[PDF]]()
 
 4. [""]()  
-   Liren Shen, **Shaowen Miao**, Aiwen Lai*, and Jan Komenda  
+   Liren Shen, **Shaowen Miao**, Aiwen Lai*, and Jan Komenda<br>
    under rewiew. [[PDF]]()
 
 5. [""]()  
-   Keru Chen, **Shaowen Miao**, Aiwen Lai, and Ji Ma*  
-   $\color{Lime}{\text{under rewiew}}$. [[PDF]]()
+   Keru Chen, **Shaowen Miao**, Aiwen Lai, and Ji Ma*<br>
+   <font color="Lime"><b>under rewiew</b></font>. [[PDF]]()
 
 6. [""]()  
-   Zhiyuan Huang, **Shaowen Miao**, Aiwen Lai, Xiao Yu*, and Weiyao Lan  
-   $\color{LightCoral}{\text{under rewiew}}$. [[PDF]]() -->
+   Zhiyuan Huang, **Shaowen Miao**, Aiwen Lai, Xiao Yu*, and Weiyao Lan<br>
+   <font color="LightCoral"><b>under rewiew</b></font>. [[PDF]]() -->
 
 # Conference Papers
 1. ["Verification of Detectability for Unambiguous Weighted Automata using Self-Composition"]()  
    **Shaowen Miao**, Aiwen Lai*, Xiao Yu, S&eacute;bastien Lahaye, and Jan Komenda<br>
-   <font color="SkyBlue">9th International Conference on Control, Decision and Information Technologies</font>
-   $\color{SkyBlue}{\text{9th International Conference on Control, Decision and Information Technologies}}$, accepted, 2023. [[PDF]](https://jiro-m.github.io/papers/23CoDIT.pdf)
+   <font color="SkyBlue">9th International Conference on Control, Decision and Information Technologies</font>, accepted, 2023. [[PDF]](https://jiro-m.github.io/papers/23CoDIT.pdf)
 
 <!-- 2. [""]()  
-   Liren Shen, **Shaowen Miao**, Aiwen Lai*, and Weiyao Lan  
+   Liren Shen, **Shaowen Miao**, Aiwen Lai*, and Weiyao Lan<br>
    under rewiew. [[PDF]]()
 
 3. [""]()  
-   Guoqiang Xu, **Shaowen Miao**, Aiwen Lai*, and Weiyao Lan  
+   Guoqiang Xu, **Shaowen Miao**, Aiwen Lai*, and Weiyao Lan<br>
    under rewiew. [[PDF]]() -->
