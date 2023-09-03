@@ -7,10 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
-## Journal Reviewer
-- IEEE Transactions on Automatic Control (TAC)
+# Journal Reviewer
+<!-- - IEEE Transactions on Automatic Control (TAC) -->
 - Automatica
-- Discrete Event Dynamic Systems: Theory and Applications (JDEDS)
+<!-- - Discrete Event Dynamic Systems: Theory and Applications (JDEDS) -->
 
-## Conference Reviewer
+# Conference Reviewer
 - China University Computer Education Conference (CCEC)

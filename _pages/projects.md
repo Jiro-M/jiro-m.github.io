@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-## High-precision indoor positioning system based on Bluetooth 5.1
+# High-precision indoor positioning system based on Bluetooth 5.1
 - Fuzhou University Undergraduate Scientific Research Training Program Project (26002)
 - Award Amount: 2,000 CNY
 - Role: Principal Investigator (PI)

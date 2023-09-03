@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-## Journal Papers
+# Journal Papers
 1. [""]()  
    **Shaowen Miao**, Aiwen Lai*, Jan Komenda, and S&eacute;bastien Lahaye
    <div><font color="RoyalBlue"><b>under rewiew</b></font>. <a href="">[PDF]</a></div>
@@ -32,7 +32,7 @@ author_profile: true
    Zhiyuan Huang, **Shaowen Miao**, Aiwen Lai, Xiao Yu*, and Weiyao Lan
    <div><font color="LightCoral"><b>under rewiew</b></font>. <a href="">[PDF]</a></div> -->
 
-## Conference Papers
+# Conference Papers
 1. ["Verification of Detectability for Unambiguous Weighted Automata using Self-Composition"]()  
    **Shaowen Miao**, Aiwen Lai*, Xiao Yu, S&eacute;bastien Lahaye, and Jan Komenda
    <div><font color="SkyBlue">9th International Conference on Control, Decision and Information Technologies</font>, accepted, 2023. <a href="https://jiro-m.github.io/papers/23CoDIT.pdf">[PDF]</a> <a href="https://jiro-m.github.io/slides/23CoDIT_PPT.pdf">[Slide]</a></div>
