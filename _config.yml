@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Shaowen Miao (缪绍文)"
 title_separator          : "-"
-name                     : "Shaowen Miao" # &name
-description              : "Shaowen Miao" # &description
+name                     : &name "Shaowen Miao"
+description              : &description "personal description"
 url                      : https://jiro-m.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
