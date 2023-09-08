@@ -16,19 +16,19 @@ author_profile: true
    **Shaowen Miao**, Aiwen Lai*, Jan Komenda, and S&eacute;bastien Lahaye
    <div><font color="RoyalBlue"><b>under rewiew</b></font>. <a href="">[PDF]</a></div>
 
-<!-- 3. [""]()  
-   **Shaowen Miao**, Aiwen Lai*, Jan Komenda, and Alessandro Giua
+3. [""]()  
+   **Shaowen Miao**, Aiwen Lai*, and Jan Komenda<!-- , and Alessandro Giua -->
    <div><font color="Crimson"><b>under rewiew</b></font>. <a href="">[PDF]</a></div>
 
 4. [""]()  
    Liren Shen, **Shaowen Miao**, Aiwen Lai*, and Jan Komenda
-   <div><font color=""><b>under rewiew</b></font>. <a href="">[PDF]</a></div>
+   <div><font color="Orange"><b>under rewiew</b></font>. <a href="">[PDF]</a></div>
 
-5. [""]()  
+<!-- 5. [""]()  
    Keru Chen, **Shaowen Miao**, Aiwen Lai, and Ji Ma*
-   <div><font color="Lime"><b>under rewiew</b></font>. <a href="">[PDF]</a></div>
+   <div><font color="Lime"><b>under rewiew</b></font>. <a href="">[PDF]</a></div> -->
 
-6. [""]()  
+<!-- 6. [""]()  
    Zhiyuan Huang, **Shaowen Miao**, Aiwen Lai, Xiao Yu*, and Weiyao Lan
    <div><font color="LightCoral"><b>under rewiew</b></font>. <a href="">[PDF]</a></div> -->
 
@@ -39,8 +39,8 @@ author_profile: true
 
 <!-- 2. [""]()  
    Liren Shen, **Shaowen Miao**, Aiwen Lai*, and Weiyao Lan<br>
-   <div><font color="">under rewiew</font>. <a href="">[PDF]</a></div>
+   <div><font color="">under rewiew</font>. <a href="">[PDF]</a></div> -->
 
 3. [""]()  
    Guoqiang Xu, **Shaowen Miao**, Aiwen Lai*, and Weiyao Lan<br>
-   <div><font color="">under rewiew</font>. <a href="">[PDF]</a></div> -->
+   <div><font color="AliceBlue">under rewiew</font>. <a href="">[PDF]</a></div>
