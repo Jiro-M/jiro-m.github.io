@@ -11,4 +11,4 @@ author_profile: true
 - Fuzhou University Undergraduate Scientific Research Training Program Project (26002)
 - Award Amount: 2,000 CNY
 - Role: Principal Investigator (PI)
-- Time span: 2020.05 - 2022.05
+- Execution Time: 2020.05 - 2022.05

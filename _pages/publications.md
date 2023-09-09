@@ -43,4 +43,4 @@ author_profile: true
 
 2. [""]()  
    Guoqiang Xu, **Shaowen Miao**, Aiwen Lai*, and Weiyao Lan<br>
-   <div><font color="LightCyan">under rewiew</font>. <a href="">[PDF]</a></div>
+   <div><font color="LightGrey">under rewiew</font>. <a href="">[PDF]</a></div>
