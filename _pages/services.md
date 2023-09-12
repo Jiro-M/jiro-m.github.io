@@ -15,3 +15,4 @@ author_profile: true
 
 # Conference Reviewer
 - China University Computer Education Conference (CCEC)
+- China Automation Conference (CAC)
