@@ -17,7 +17,7 @@ author_profile: true
    <div><font color="RoyalBlue"><b>under rewiew</b></font>. <a href="">[PDF]</a></div>
 
 <!-- 3. [""]()  
-   **Shaowen Miao**, Aiwen Lai*, and Jan Komenda<!-- , and Alessandro Giua -->
+   **Shaowen Miao**, Aiwen Lai*, and Jan Komenda
    <div><font color="Crimson"><b>under rewiew</b></font>. <a href="">[PDF]</a></div> -->
 
 <!-- 4. [""]()  
