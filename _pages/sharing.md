@@ -23,9 +23,10 @@ This page just for sharing and recording.
   }
 </style>
 
-<table>
+<table frame=void>
   <tr>
     <td><a href="https://zhuanlan.zhihu.com/p/166523064">Configuration of LaTeX for VScode</a></td>
+    <td></td>
   </tr>
   <tr>
     <td><a href="https://greenhubtx.ga">Greenhub</a></td>
