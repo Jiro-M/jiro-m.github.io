@@ -15,16 +15,17 @@ This page just for sharing and recording.
   table {
     width: 100%; /* Make the table fill its container */
     border-collapse: collapse;
-    border: 0;
+    font-size: 16px;
   }
 
   td {
     text-align: center; /* Center-align text in all cells */
     padding: 10px; /* Add some padding for spacing */
+    border: 0px;
   }
 </style>
 
-<table frame=void>
+<table>
   <tr>
     <td><a href="https://zhuanlan.zhihu.com/p/166523064">Configuration of LaTeX for VScode</a></td>
     <td></td>
