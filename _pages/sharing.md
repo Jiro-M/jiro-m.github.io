@@ -15,6 +15,7 @@ This page just for sharing and recording.
   table {
     width: 100%; /* Make the table fill its container */
     border-collapse: collapse;
+    border: 0;
   }
 
   td {
