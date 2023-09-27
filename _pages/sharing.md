@@ -28,8 +28,8 @@ This page just for sharing and recording.
 
 <table>
   <tr>
-    <td><a href="https://zhuanlan.zhihu.com/p/166523064">Configuration of LaTeX for VScode</a></td>
-    <td></td>
+    <td><a href="https://zhuanlan.zhihu.com/p/166523064">LaTeX</a></td>
+    <td>Configuration of LaTeX for VScode</td>
   </tr>
   <tr>
     <td><a href="https://greenhubtx.ga">Greenhub</a></td>
@@ -40,7 +40,7 @@ This page just for sharing and recording.
     <td>Pin Screenshot</td>
   </tr>
   <tr>
-    <td><a href="https://www.adobe.com/acrobat/pdf-reader.html">Adobe Acrobat</a></td>
+    <td><a href="https://pan.baidu.com/s/1NhUqkQQiLPRPITdQu9BdIg?pwd=v7y9">Adobe Acrobat</a></td>
     <td>PDF Reading and Commenting</td>
   </tr>
   <tr>
@@ -50,5 +50,9 @@ This page just for sharing and recording.
   <tr>
     <td><a href="https://www.thunderbird.net">Thunderbird</a></td>
     <td>Email Management</td>
+  </tr>
+  <tr>
+    <td><a href="https://jiro-m.github.io/sharing/LaTeX_Template.rar">LaTeX Template</a></td>
+    <td>Templates for Several Journals and Conferences</td>
   </tr>
 </table>
