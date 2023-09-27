@@ -16,9 +16,9 @@ author_profile: true
    **Shaowen Miao**, Aiwen Lai*, Jan Komenda, and S&eacute;bastien Lahaye
    <div><font color="RoyalBlue"><b>under rewiew</b></font>. <a href="">[PDF]</a></div>
 
-<!-- 3. [""]()  
+3. [""]()  
    **Shaowen Miao**, Aiwen Lai*, and Jan Komenda
-   <div><font color="Crimson"><b>under rewiew</b></font>. <a href="">[PDF]</a></div> -->
+   <div><font color="Crimson"><b>under rewiew</b></font>. <a href="">[PDF]</a></div>
 
 <!-- 4. [""]()  
    Liren Shen, **Shaowen Miao**, Aiwen Lai*, and Jan Komenda
@@ -37,10 +37,11 @@ author_profile: true
    **Shaowen Miao**, Aiwen Lai*, Xiao Yu, S&eacute;bastien Lahaye, and Jan Komenda
    <div><font color="SkyBlue">9th International Conference on Control, Decision and Information Technologies</font>, accepted, 2023. <a href="https://jiro-m.github.io/papers/23CoDIT.pdf">[PDF]</a> <a href="https://jiro-m.github.io/slides/23CoDIT_PPT.pdf">[Slide]</a></div>
 
+2. [""]()  
+   Guoqiang Xu, **Shaowen Miao**, Aiwen Lai*<br>
+   <div><font color="LightGrey">under rewiew</font>. <a href="">[PDF]</a></div>
+
 <!-- 2. [""]()  
    Liren Shen, **Shaowen Miao**, Aiwen Lai*, and Weiyao Lan<br>
    <div><font color="">under rewiew</font>. <a href="">[PDF]</a></div> -->
 
-<!-- 2. [""]()  
-   Guoqiang Xu, **Shaowen Miao**, Aiwen Lai*, and Weiyao Lan<br>
-   <div><font color="LightGrey">under rewiew</font>. <a href="">[PDF]</a></div> -->
