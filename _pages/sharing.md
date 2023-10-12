@@ -51,8 +51,8 @@ This page just for sharing and recording.
     <td><a href="https://www.thunderbird.net">Thunderbird</a></td>
     <td>Email Management</td>
   </tr>
-  <tr>
+  <!-- <tr>
     <td><a href="https://jiro-m.github.io/sharing/LaTeX_Template.rar">LaTeX Template</a></td>
     <td>Templates for Several Journals and Conferences</td>
-  </tr>
+  </tr> -->
 </table>
