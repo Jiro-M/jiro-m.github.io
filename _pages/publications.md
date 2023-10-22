@@ -22,7 +22,7 @@ author_profile: true
 
 4. [""]()  
    **Shaowen Miao**, Jan Komenda, and Aiwen Lai*
-   <div><font color="LightSkyBlue"><b>under rewiew</b></font>. <a href="">[PDF]</a></div>
+   <div><font color="DeepSkyBlue"><b>under rewiew</b></font>. <a href="">[PDF]</a></div>
 
 5. [""]()  
    Liren Shen, **Shaowen Miao**, Aiwen Lai*, and Jan Komenda
