@@ -14,5 +14,5 @@ author_profile: true
 - Information Sciences (INS)
 
 # Conference Reviewer
-- China University Computer Education Conference (CCEC)
 - China Automation Conference (CAC)
+- China University Computer Education Conference (CCEC)

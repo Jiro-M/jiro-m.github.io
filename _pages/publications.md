@@ -37,9 +37,9 @@ author_profile: true
    <div><font color="LightCoral"><b>under rewiew</b></font>. <a href="">[PDF]</a></div> -->
 
 # Conference Papers
-1. ["Verification of Detectability for Unambiguous Weighted Automata using Self-Composition"]()  
+1. ["Verification of Detectability for Unambiguous Weighted Automata using Self-Composition"](https://ieeexplore.ieee.org/abstract/document/10284082)  
    **Shaowen Miao**, Aiwen Lai*, Xiao Yu, S&eacute;bastien Lahaye, and Jan Komenda
-   <div><font color="SkyBlue">9th International Conference on Control, Decision and Information Technologies</font>, accepted, 2023. <a href="https://jiro-m.github.io/papers/23CoDIT.pdf">[PDF]</a> <a href="https://jiro-m.github.io/slides/23CoDIT_PPT.pdf">[Slide]</a></div>
+   <div><font color="SkyBlue">9th International Conference on Control, Decision and Information Technologies</font>, pp. 251-256, 2023. <a href="https://jiro-m.github.io/papers/23CoDIT.pdf">[PDF]</a>
 
 2. ["Verification of Delayed Detectability for Unambiguous Weighted Automata"]()  
    Guoqiang Xu, **Shaowen Miao**, Aiwen Lai*, and Weiyao Lan<br>
