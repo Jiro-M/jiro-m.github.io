@@ -46,6 +46,6 @@ author_profile: true
    <div><font color="LightGrey">6th International Conference on Mechatronics, Robotics and Automation</font>, accepted, 2023. <a href="">[PDF]</a></div>
 
 <!-- 2. [""]()  
-   Liren Shen, **Shaowen Miao**, Aiwen Lai*, and Weiyao Lan<br>
+   Liren Shen, **Shaowen Miao**, Aiwen Lai*, and Jan Komenda<br>
    <div><font color="">under rewiew</font>. <a href="">[PDF]</a></div> -->
 
