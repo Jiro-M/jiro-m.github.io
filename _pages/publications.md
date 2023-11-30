@@ -15,7 +15,6 @@ author_profile: true
 2. [""]()  
    **Shaowen Miao**, Aiwen Lai*, Jan Komenda, and S&eacute;bastien Lahaye
    <div><font color="Orange"><b>under rewiew</b></font>. <a href="">[PDF]</a></div>
-   <!-- RoyalBlue -->
 
 3. [""]()  
    **Shaowen Miao**, Aiwen Lai*, and Jan Komenda
@@ -24,6 +23,10 @@ author_profile: true
 4. [""]()  
    **Shaowen Miao**, Jan Komenda, and Aiwen Lai*
    <div><font color="DeepSkyBlue"><b>under rewiew</b></font>. <a href="">[PDF]</a></div>
+
+<!-- 4. [""]()  
+   **Shaowen Miao**, Jan Komenda, Aiwen Lai*, and Zhiwu Li
+   <div><font color="RoyalBlue"><b>under rewiew</b></font>. <a href="">[PDF]</a></div> -->
 
 5. [""]()  
    Liren Shen, **Shaowen Miao**, Aiwen Lai*, and Jan Komenda
@@ -47,6 +50,6 @@ author_profile: true
    <div><font color="LightGrey">6th International Conference on Mechatronics, Robotics and Automation</font>, accepted, 2023. <a href="">[PDF]</a></div>
 
 <!-- 2. [""]()  
-   Liren Shen, **Shaowen Miao**, Aiwen Lai*, and Jan Komenda<br>
+   Liren Shen, **Shaowen Miao**, Aiwen Lai*, Jan Komenda, and S&eacute;bastien Lahaye<br>
    <div><font color="">under rewiew</font>. <a href="">[PDF]</a></div> -->
 
