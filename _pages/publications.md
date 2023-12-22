@@ -21,10 +21,6 @@ author_profile: true
    <div><font color="Crimson"><b>under rewiew</b></font>.</div>
 
 4. [""]()  
-   **Shaowen Miao**, Jan Komenda, and Aiwen Lai*
-   <div><font color="DeepSkyBlue"><b>under rewiew</b></font>.</div>
-
-5. [""]()  
    Liren Shen, **Shaowen Miao**, Aiwen Lai*, and Jan Komenda
    <div><font color="Orange"><b>under rewiew</b></font>.</div>
 
@@ -38,7 +34,7 @@ author_profile: true
 
 <!-- 5. [""]()  
    Keru Chen, **Shaowen Miao**, Ji Ma*, and Aiwen Lai
-   <div><font color="Lime"><b>under rewiew</b></font>.</div> -->
+   <div><font color="DeepSkyBlue"><b>under rewiew</b></font>.</div> -->
 
 <!-- 6. [""]()  
    Zhiyuan Huang, **Shaowen Miao**, Aiwen Lai, Xiao Yu*, and Weiyao Lan
