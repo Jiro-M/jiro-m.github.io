@@ -9,7 +9,7 @@ author_profile: true
 
 Here are some of my commonly used scientific research tools.  
   
-This page just for sharing and recording.
+This page is just for sharing and recording.
 
 <style>
   table {
