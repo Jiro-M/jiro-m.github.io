@@ -18,7 +18,7 @@ author_profile: true
 
 3. [""]()  
    **Shaowen Miao**, Aiwen Lai*, and Jan Komenda
-   <div><font color="Crimson"><b>under rewiew</b></font>.</div>
+   <div><font color="Crimson"><b>under 2nd rewiew</b></font>.</div>
 
 4. [""]()  
    **Shaowen Miao**, Jan Komenda, and Aiwen Lai* 
@@ -33,7 +33,7 @@ author_profile: true
    <div><font color="DeepSkyBlue"><b>under rewiew</b></font>.</div> -->
 
 <!-- 4. [""]()  
-   **Shaowen Miao**, Jan Komenda, Tom&aacute;&scaron; and Aiwen Lai*
+   **Shaowen Miao**, Jan Komenda, Tom&aacute;&scaron; Masopust and Aiwen Lai*
    <div><font color="RoyalBlue"><b>under rewiew</b></font>.</div> -->
 
 <!-- 6. [""]()  
