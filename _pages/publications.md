@@ -21,6 +21,10 @@ author_profile: true
    <div><font color="Crimson"><b>under rewiew</b></font>.</div>
 
 4. [""]()  
+   **Shaowen Miao**, Jan Komenda, and Aiwen Lai* 
+   <div><font color="FireBrick"><b>under rewiew</b></font>.</div>
+
+5. [""]()  
    Liren Shen, **Shaowen Miao**, Aiwen Lai*, and Jan Komenda
    <div><font color="Orange"><b>under rewiew</b></font>.</div>
 
@@ -31,10 +35,6 @@ author_profile: true
 <!-- 4. [""]()  
    **Shaowen Miao**, Jan Komenda, Tom&aacute;&scaron; and Aiwen Lai*
    <div><font color="RoyalBlue"><b>under rewiew</b></font>.</div> -->
-
-<!-- 5. [""]()  
-   Keru Chen, **Shaowen Miao**, Ji Ma*, and Aiwen Lai
-   <div><font color="DeepSkyBlue"><b>under rewiew</b></font>.</div> -->
 
 <!-- 6. [""]()  
    Zhiyuan Huang, **Shaowen Miao**, Aiwen Lai, Xiao Yu*, and Weiyao Lan
@@ -47,9 +47,14 @@ author_profile: true
 
 2. [""]()  
    Liren Shen, **Shaowen Miao**, Aiwen Lai*, Jan Komenda, and S&eacute;bastien Lahaye<br>
-   <div><font color="LimeGreen">17th IFAC Workshop on Discrete Event Systems (WODES)</font>, under rewiew, 2024.</div>
+    <div><font color="FireBrick">14th Asian Control Conference (ASCC)</font>, under rewiew, 2024.</div>
+   <!-- <div><font color="LimeGreen">14th Asian Control Conference (ASCC)</font>, under rewiew, 2024.</div> -->
 
 3. ["Verification of Delayed Detectability for Unambiguous Weighted Automata"]()  
    Guoqiang Xu, **Shaowen Miao**, Aiwen Lai*, and Weiyao Lan<br>
    <div><font color="LightGrey">6th International Conference on Mechatronics, Robotics and Automation (ICMRA)</font>, accepted, 2023.</div>
+
+<!-- 5. [""]()  
+   Keru Chen, **Shaowen Miao**, Ji Ma*, and Aiwen Lai
+   <div><font color="DeepSkyBlue"><b>under rewiew</b></font>.</div> -->
 
