@@ -21,10 +21,10 @@ author_profile: true
     - Institute of Mathematics <span style="float:right"> Apr. 2024 - June 2024</span>
     - Supervisor: [Rsr. Jan Komenda](https://www.math.cas.cz/index.php/members/researcher/50)
 
-- **Palacky University**
+<!-- - **Palacky University**
     - Department of Computer Science <span style="float:right"> May. 2024 - May 2024</span>
-    - Supervisor: [Prof. Tom&aacute;&scaron; Masopust](https://apollo.inf.upol.cz/~masopust/)
+    - Supervisor: [Prof. Tom&aacute;&scaron; Masopust](https://apollo.inf.upol.cz/~masopust/) -->
 
-- **University of Angers**
+<!-- - **University of Angers**
     - Research Laboratory for Systems Engineering (LARIS) <span style="float:right"> June. 2024 - June. 2024</span>
-    - Supervisor: [Prof. S&eacute;bastien Lahaye](http://perso-laris.univ-angers.fr/~lahaye/)
+    - Supervisor: [Prof. S&eacute;bastien Lahaye](http://perso-laris.univ-angers.fr/~lahaye/) -->
