@@ -21,23 +21,23 @@ author_profile: true
    <div><font color="Crimson"><b>under 2nd rewiew</b></font>.</div>
 
 4. [""]()  
-   **Shaowen Miao**, Jan Komenda, and Aiwen Lai* 
-   <div><font color="FireBrick"><b>under rewiew</b></font>.</div>
-
-5. [""]()  
    Liren Shen, **Shaowen Miao**, Aiwen Lai*, and Jan Komenda
    <div><font color="Orange"><b>under 2nd rewiew</b></font>.</div>
 
-<!-- 4. [""]()  
-   **Shaowen Miao**, Jan Komenda, Aiwen Lai*, and Zhiwu Li
-   <div><font color="DeepSkyBlue"><b>under rewiew</b></font>.</div> -->
+5. [""]()  
+   **Shaowen Miao**, Jan Komenda, and Aiwen Lai* 
+   <div><font color="FireBrick"><b>under rewiew</b></font>.</div>
+
+6. [""]()  
+   **Shaowen Miao**, Jan Komenda, and Aiwen Lai*
+   <div><font color="DeepSkyBlue"><b>under rewiew</b></font>.</div>
 
 <!-- 4. [""]()  
    **Shaowen Miao**, Jan Komenda, Tom&aacute;&scaron; Masopust and Aiwen Lai*
    <div><font color="RoyalBlue"><b>under rewiew</b></font>.</div> -->
 
 <!-- 6. [""]()  
-   Zhiyuan Huang, **Shaowen Miao**, Aiwen Lai, Xiao Yu*, and Weiyao Lan
+   Zhiyuan Huang, **Shaowen Miao**, Aiwen Lai
    <div><font color="LightCoral"><b>under rewiew</b></font>.</div> -->
 
 # Conference Papers
@@ -54,7 +54,7 @@ author_profile: true
    Guoqiang Xu, **Shaowen Miao**, Aiwen Lai*, and Weiyao Lan<br>
    <div><font color="LightGrey">6th International Conference on Mechatronics, Robotics and Automation (ICMRA)</font>, accepted, 2023.</div>
 
-<!-- 5. [""]()  
+<!-- 4. [""]()  
    Keru Chen, **Shaowen Miao**, Ji Ma*, and Aiwen Lai
    <div><font color="DeepSkyBlue"><b>under rewiew</b></font>.</div> -->
 
