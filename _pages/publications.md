@@ -20,9 +20,9 @@ author_profile: true
    **Shaowen Miao**, Aiwen Lai*, and Jan Komenda
    <div><font color="Crimson"><b>under 2nd rewiew</b></font>.</div>
 
-4. [""]()  
+4. ["Verification of Initial-and-Final-State Opacity for Unambiguous Weighted Automata"]()  
    Liren Shen, **Shaowen Miao**, Aiwen Lai*, and Jan Komenda
-   <div><font color="Orange"><b>under 2nd rewiew</b></font>.</div>
+   <div><font color="Orange"><b>ISA Transactions</b></font>accepted and in press, 2024.</div>
 
 5. [""]()  
    **Shaowen Miao**, Jan Komenda, and Aiwen Lai* 
