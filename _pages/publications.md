@@ -32,12 +32,16 @@ author_profile: true
    **Shaowen Miao**, Jan Komenda, and Aiwen Lai*
    <div><font color="DeepSkyBlue"><b>under rewiew</b></font>.</div>
 
-<!-- 4. [""]()  
+<!-- 7. [""]()  
    **Shaowen Miao**, Jan Komenda, Tom&aacute;&scaron; Masopust and Aiwen Lai*
    <div><font color="RoyalBlue"><b>under rewiew</b></font>.</div> -->
 
+<!-- 7. [""]()  
+   **Shaowen Miao**, Tom&aacute;&scaron; Masopust, Jan Komenda, and Aiwen Lai*
+   <div><font color="RoyalBlue"><b>under rewiew</b></font>.</div> -->
+
 <!-- 6. [""]()  
-   Zhiyuan Huang, **Shaowen Miao**, Aiwen Lai
+   Zhiyuan Huang, **Shaowen Miao**, and Aiwen Lai
    <div><font color="LightCoral"><b>under rewiew</b></font>.</div> -->
 
 # Conference Papers
@@ -55,6 +59,6 @@ author_profile: true
    <div><font color="LightGrey">6th International Conference on Mechatronics, Robotics and Automation (ICMRA)</font>, accepted, 2023.</div>
 
 <!-- 4. [""]()  
-   Keru Chen, **Shaowen Miao**, Ji Ma*, and Aiwen Lai
-   <div><font color="DeepSkyBlue"><b>under rewiew</b></font>.</div> -->
+   Keru Chen, **Shaowen Miao**, Aiwen Lai, and Ji Ma* 
+   <div><font color="RoyalBlue">63rd IEEE Conference on Decision and Control</font>, under rewiew, 2024.</div> -->
 
