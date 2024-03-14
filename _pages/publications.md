@@ -10,7 +10,7 @@ author_profile: true
 # Journal Papers
 1. [""]()  
    **Shaowen Miao**, Aiwen Lai*, Jan Komenda, and S&eacute;bastien Lahaye
-   <div><font color="Crimson"><b>under rewiew</b></font>.</div>
+   <div><font color="Crimson"><b>under 2nd rewiew</b></font>.</div>
 
 2. [""]()  
    **Shaowen Miao**, Aiwen Lai*, Jan Komenda, and S&eacute;bastien Lahaye
@@ -25,14 +25,10 @@ author_profile: true
    <div><font color="Chocolate"><b>ISA Transactions</b></font>, accepted and in press, 2024.</div>
 
 5. [""]()  
-   **Shaowen Miao**, Jan Komenda, and Aiwen Lai* 
-   <div><font color="FireBrick"><b>under rewiew</b></font>.</div>
-
-6. [""]()  
    **Shaowen Miao**, Jan Komenda, and Aiwen Lai*
    <div><font color="DeepSkyBlue"><b>under rewiew</b></font>.</div>
 
-<!-- 7. [""]()  
+<!-- 6. [""]()  
    **Shaowen Miao**, Jan Komenda, Tom&aacute;&scaron; Masopust and Aiwen Lai*
    <div><font color="RoyalBlue"><b>under rewiew</b></font>.</div> -->
 
@@ -40,7 +36,7 @@ author_profile: true
    **Shaowen Miao**, Tom&aacute;&scaron; Masopust, Jan Komenda, and Aiwen Lai*
    <div><font color="RoyalBlue"><b>under rewiew</b></font>.</div> -->
 
-<!-- 6. [""]()  
+<!-- 8. [""]()  
    Zhiyuan Huang, **Shaowen Miao**, and Aiwen Lai
    <div><font color="LightCoral"><b>under rewiew</b></font>.</div> -->
 
