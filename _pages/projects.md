@@ -14,7 +14,7 @@ author_profile: true
 - Execution Time: 2020.05 - 2022.05
 
 # Security of Cyber-Physical Systems
-- Xiamen University College Students' Innovative Entrepreneurial Training Plan Program
+- Xiamen University College Students' Innovative Entrepreneurial Training Plan Program (2023Y1407)
 - Award Amount: 1,000 CNY
 - Role: Advisor
-- Execution Time: 2023.10 - 2025.10
+- Execution Time: 2023.7 - 2025.7
