@@ -50,11 +50,11 @@ author_profile: true
     <div><font color="FireBrick">14th Asian Control Conference (ASCC)</font>, under rewiew, 2024.</div>
    <!-- <div><font color="LimeGreen">14th Asian Control Conference (ASCC)</font>, under rewiew, 2024.</div> -->
 
-3. ["Verification of Delayed Detectability for Unambiguous Weighted Automata"]()  
+3. [""]()  
+   Keru Chen, **Shaowen Miao**, Sihan Chen, Aiwen Lai, and Ji Ma* 
+   <div><font color="SkyBlue">43rd Chinese Control Conference (CCC)</font>, accepted, 2024.</div>
+
+4. ["Verification of Delayed Detectability for Unambiguous Weighted Automata"]()  
    Guoqiang Xu, **Shaowen Miao**, Aiwen Lai*, and Weiyao Lan<br>
    <div><font color="LightGrey">6th International Conference on Mechatronics, Robotics and Automation (ICMRA)</font>, accepted, 2023.</div>
-
-4. [""]()  
-   Keru Chen, **Shaowen Miao**, Sihan Chen, Aiwen Lai, and Ji Ma* 
-   <div><font color="SkyBlue">43rd Chinese Control Conference (CCC)</font>, under rewiew, 2024.</div>
 
