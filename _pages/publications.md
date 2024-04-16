@@ -54,7 +54,7 @@ author_profile: true
    Guoqiang Xu, **Shaowen Miao**, Aiwen Lai*, and Weiyao Lan<br>
    <div><font color="LightGrey">6th International Conference on Mechatronics, Robotics and Automation (ICMRA)</font>, accepted, 2023.</div>
 
-<!-- 4. [""]()  
-   Keru Chen, **Shaowen Miao**, Aiwen Lai, and Ji Ma* 
-   <div><font color="RoyalBlue">63rd IEEE Conference on Decision and Control</font>, under rewiew, 2024.</div> -->
+4. [""]()  
+   Keru Chen, **Shaowen Miao**, Sihan Chen, Aiwen Lai, and Ji Ma* 
+   <div><font color="SkyBlue">43rd Chinese Control Conference (CCC)</font>, under rewiew, 2024.</div>
 
