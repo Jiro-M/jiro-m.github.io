@@ -50,7 +50,7 @@ author_profile: true
     <div><font color="FireBrick">14th Asian Control Conference (ASCC)</font>, under rewiew, 2024.</div>
    <!-- <div><font color="LimeGreen">14th Asian Control Conference (ASCC)</font>, under rewiew, 2024.</div> -->
 
-3. [""]()  
+3. ["Decidability of Probabilistic Current-State Opacity for Probabilistic Finite Automata"]()  
    Keru Chen, **Shaowen Miao**, Sihan Chen, Aiwen Lai, and Ji Ma* 
    <div><font color="SkyBlue">43rd Chinese Control Conference (CCC)</font>, accepted, 2024.</div>
 
