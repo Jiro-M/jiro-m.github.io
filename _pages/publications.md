@@ -45,13 +45,13 @@ author_profile: true
    **Shaowen Miao**, Aiwen Lai*, Xiao Yu, S&eacute;bastien Lahaye, and Jan Komenda
    <div><font color="SkyBlue">9th International Conference on Control, Decision and Information Technologies (CoDIT)</font>, pp. 251-256, 2023. <a href="https://jiro-m.github.io/papers/23CoDIT.pdf">[Corr.]</a>
 
-2. [""]()  
+2. ["Initial-and-Final-State Detectability of Nondeterministic Finite-State Automata"]()  
    Liren Shen, **Shaowen Miao**, Aiwen Lai*, Jan Komenda, and S&eacute;bastien Lahaye<br>
-    <div><font color="FireBrick">14th Asian Control Conference (ASCC)</font>, under rewiew, 2024.</div>
+    <div><font color="FireBrick">14th Asian Control Conference (ASCC)</font>, accepted, 2024.</div>
    <!-- <div><font color="LimeGreen">14th Asian Control Conference (ASCC)</font>, under rewiew, 2024.</div> -->
 
 3. ["Decidability of Probabilistic Current-State Opacity for Probabilistic Finite Automata"]()  
-   Keru Chen, **Shaowen Miao**, Sihan Chen, Aiwen Lai, and Ji Ma* 
+   Keru Chen, **Shaowen Miao**, Aiwen Lai, Ji Ma*, and Sihan Chen
    <div><font color="SkyBlue">43rd Chinese Control Conference (CCC)</font>, accepted, 2024.</div>
 
 4. ["Verification of Delayed Detectability for Unambiguous Weighted Automata"]()  

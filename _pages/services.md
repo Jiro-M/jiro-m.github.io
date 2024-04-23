@@ -14,4 +14,5 @@ author_profile: true
 
 # Conference Reviewer
 - American Control Conference (ACC)
+<!-- - IEEE Conference on Decision and Control (CDC) -->
 - IFAC Workshop on Discrete Event Systems (WODES)
