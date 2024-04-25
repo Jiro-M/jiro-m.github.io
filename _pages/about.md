@@ -18,7 +18,7 @@ redirect_from:
 - Email: [miaosw0706@stu.xmu.edu.cn](mailto:miaosw0706@stu.xmu.edu.cn)
 
 ## Research Interests
-- **Discrete-Event Systems (DES):** State Estimation, Supervisory Control
+- **Discrete-Event Systems (DES):** Property Verification, Supervisory Control
 - **Formal Methods:** Linear Temporal Logics (LTL)
 - **Theoretical Computer Science (TCS):** Complexity Theory
 
