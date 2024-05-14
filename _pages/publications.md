@@ -22,7 +22,7 @@ author_profile: true
 
 4. ["Verification of Initial-and-Final-State Opacity for Unambiguous Weighted Automata"](https://www.sciencedirect.com/science/article/pii/S0019057824001277)  
    Liren Shen, **Shaowen Miao**, Aiwen Lai*, and Jan Komenda
-   <div><font color="Chocolate"><b>ISA Transactions</b></font>, accepted, 2024.</div>
+   <div><font color="Chocolate"><b>ISA Transactions</b></font>, 148:237--246, 2024.</div>
 
 5. [""]()  
    **Shaowen Miao**, Jan Komenda, and Aiwen Lai*
