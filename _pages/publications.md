@@ -29,7 +29,7 @@ author_profile: true
    <div><font color="DeepSkyBlue"><b>under rewiew</b></font>.</div>
 
 6. [""]()  
-   **Shaowen Miao**, Jan Komenda, Tom&aacute;&scaron; Masopust and Aiwen Lai*
+   **Shaowen Miao**, Jan Komenda, Tom&aacute;&scaron; Masopust, and Aiwen Lai*
    <div><font color="RoyalBlue"><b>under rewiew</b></font>.</div>
 
 <!-- 7. [""]()  
