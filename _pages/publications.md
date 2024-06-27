@@ -5,9 +5,23 @@ permalink: /publications/
 author_profile: true
 ---
 
+<style type="text/css">
+    h1 { counter-reset: h2counter; }
+    h2 { }
+    h2:before {
+      counter-increment: h2counter;
+      content: counter(h2counter) ".\0000a0\0000a0";
+    }
+</style>
+
 {% include base_path %}
 
 # Journal Papers
+
+## Nihao
+
+## Test
+
 1. [""]()  
    **Shaowen Miao**, Aiwen Lai*, Jan Komenda, and S&eacute;bastien Lahaye
    <div><font color="Crimson"><b>under 2nd rewiew</b></font>.</div>
@@ -32,9 +46,9 @@ author_profile: true
    **Shaowen Miao**, Jan Komenda, Tom&aacute;&scaron; Masopust, and Aiwen Lai*
    <div><font color="RoyalBlue"><b>under rewiew</b></font>.</div>
 
-<!-- 7. [""]()  
+7. [""]()  
    **Shaowen Miao**, Tom&aacute;&scaron; Masopust, Jan Komenda, and Aiwen Lai*
-   <div><font color="DeepSkyBlue"><b>under rewiew</b></font>.</div> -->
+   <div><font color="DeepSkyBlue"><b>under rewiew</b></font>.</div>
 
 <!-- 8. [""]()  
    Zhiyuan Huang, **Shaowen Miao**, and Aiwen Lai
