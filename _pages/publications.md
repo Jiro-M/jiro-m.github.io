@@ -5,62 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-<style type="text/css">
-    h1 { counter-reset: h2counter; }
-    h2 { counter-reset: h3counter; }
-    h3 { counter-reset: h4counter; }
-    h4 { counter-reset: h5counter; }
-    h5 { counter-reset: h6counter; }
-    h6 { }
-    h2:before {
-      counter-increment: h2counter;
-      content: counter(h2counter) ".\0000a0\0000a0";
-    }
-    h3:before {
-      counter-increment: h3counter;
-      content: counter(h2counter) "."
-                counter(h3counter) ".\0000a0\0000a0";
-    }
-    h4:before {
-      counter-increment: h4counter;
-      content: counter(h2counter) "."
-                counter(h3counter) "."
-                counter(h4counter) ".\0000a0\0000a0";
-    }
-    h5:before {
-      counter-increment: h5counter;
-      content: counter(h2counter) "."
-                counter(h3counter) "."
-                counter(h4counter) "."
-                counter(h5counter) ".\0000a0\0000a0";
-    }
-    h6:before {
-      counter-increment: h6counter;
-      content: counter(h2counter) "."
-                counter(h3counter) "."
-                counter(h4counter) "."
-                counter(h5counter) "."
-                counter(h6counter) ".\0000a0\0000a0";
-    }
-</style>
-
 {% include base_path %}
 
 # Journal Papers
-
-### Nihao
-
-### Test
-
-#### Hello
-
-#### World
-
-##### papers
-
-##### Accepted
-
-###### Yes!
 
 1. [""]()  
    **Shaowen Miao**, Aiwen Lai*, Jan Komenda, and S&eacute;bastien Lahaye
@@ -87,6 +34,10 @@ author_profile: true
    <div><font color="RoyalBlue"><b>under rewiew</b></font>.</div>
 
 7. [""]()  
+   **Shaowen Miao**, Jan Komenda*, and Feng Lin
+   <div><font color="Crimson"><b>under rewiew</b></font>.</div>
+
+8. [""]()  
    **Shaowen Miao**, Tom&aacute;&scaron; Masopust, Jan Komenda, and Aiwen Lai*
    <div><font color="DeepSkyBlue"><b>under rewiew</b></font>.</div>
 
