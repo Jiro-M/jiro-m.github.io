@@ -14,7 +14,7 @@ redirect_from:
 - I was born in July 2000, [Ningde](https://en.wikipedia.org/wiki/Ningde), Fujian, China.
 - I received the B.Eng. degree in [Automation](https://dqxy.fzu.edu.cn/en/info/1003/1018.htm), [Fuzhou University (FZU)](https://en.fzu.edu.cn/), 2022.
 - I'm a Master student of [Department of Automation](https://auto.xmu.edu.cn/) at [Xiamen University (XMU)](https://en.xmu.edu.cn/main.htm), supervised by [Prof. Aiwen Lai](https://aivens123.github.io/aiwenlai.github.io/).
-- I'm going to pursue my Ph.D. at [The Hong Kong University of Science and Technology, Guangzhou (HKUST-GZ)](https://www.hkust-gz.edu.cn/) under the supervision of [Prof. Yiding Ji](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/JI-Yiding/jiyiding) starting in September 2025.
+- I'm going to pursue my Ph.D. at [The Hong Kong University of Science and Technology, Guangzhou (HKUST-GZ)](https://www.hkust-gz.edu.cn/) under the supervision of [Prof. Yiding Ji](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/JI-Yiding/jiyiding) starting in Sept. 2025.
 
 - Email: [miaosw0706@stu.xmu.edu.cn](mailto:miaosw0706@stu.xmu.edu.cn)
 
