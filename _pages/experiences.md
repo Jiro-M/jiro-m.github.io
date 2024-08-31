@@ -8,8 +8,12 @@ author_profile: true
 {% include base_path %}
 
 # Education
+- **The Hong Kong University of Science and Technology (Guangzhou)**
+    - Ph.D. in Robotics and Autonomous Systems <span style="float:right"> Sept. 2025 - June 2028 (Expected)</span>
+    - Supervisor: [Prof. Yiding Ji](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/JI-Yiding/jiyiding)
+
 - **Xiamen University**
-    - M.Eng. in Control Engineering <span style="float:right"> Sept. 2022 - Present</span>
+    - M.Eng. in Control Engineering <span style="float:right"> Sept. 2022 - June 2025</span>
     - Supervisor: [Prof. Aiwen Lai](https://aivens123.github.io/aiwenlai.github.io/)
 
 - **Fuzhou University**

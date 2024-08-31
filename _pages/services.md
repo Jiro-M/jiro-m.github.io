@@ -11,8 +11,10 @@ author_profile: true
 - IEEE Transactions on Automatic Control (TAC)
 - Automatica
 - Discrete Event Dynamic Systems: Theory and Applications (JDEDS)
+- Information Sciences (INS)
 
 # Conference Reviewer
 - American Control Conference (ACC)
-<!-- - IEEE Conference on Decision and Control (CDC) -->
 - IFAC Workshop on Discrete Event Systems (WODES)
+- IEEE Conference on Decision and Control (CDC)
+- IEEE Conference on Automation Science and Engineering (CASE)
