@@ -23,4 +23,4 @@ author_profile: true
 # Visiting Student
 - **Czech Academy of Sciences**
     - Institute of Mathematics <span style="float:right"> Apr. 2024 - June 2024</span>
-    - Supervisor: [Dr. Jan Komenda](https://www.math.cas.cz/index.php/members/researcher/50)
+    - Advisor: [Dr. Jan Komenda](https://www.math.cas.cz/index.php/members/researcher/50)
