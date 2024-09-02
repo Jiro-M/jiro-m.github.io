@@ -19,7 +19,7 @@ author_profile: true
 
 3. ["Always Guarding You: Strong Initial-and-Final-State Opacity of Discrete-Event Systems"]()  
    **Shaowen Miao**, Aiwen Lai*, and Jan Komenda
-   <div><font color="Crimson"><b>Automatica</b></font>, Accept provisionally (Regular Paper).</div>
+   <div><font color="Crimson"><b>Automatica</b></font>, Accept provisionally. (Regular Paper)</div>
 
 4. ["Verification of Initial-and-Final-State Opacity for Unambiguous Weighted Automata"](https://www.sciencedirect.com/science/article/pii/S0019057824001277)  
    Liren Shen, **Shaowen Miao**, Aiwen Lai*, and Jan Komenda
@@ -48,7 +48,7 @@ author_profile: true
 # Conference Papers
 1. ["Verification of Detectability for Unambiguous Weighted Automata using Self-Composition"](https://ieeexplore.ieee.org/abstract/document/10284082)  
    **Shaowen Miao**, Aiwen Lai*, Xiao Yu, S&eacute;bastien Lahaye, and Jan Komenda
-   <div><font color="SkyBlue">9th International Conference on Control, Decision and Information Technologies (CoDIT)</font>, pp. 251-256, 2023. <a href="https://jiro-m.github.io/papers/23CoDIT.pdf">[Corr.]</a>
+   <div><font color="SkyBlue">9th International Conference on Control, Decision and Information Technologies (CoDIT)</font>, pp. 251-256, 2023.</div> <a href="https://jiro-m.github.io/papers/23CoDIT.pdf">[Corr.]</a>
 
 2. ["Verification of Delayed Detectability for Unambiguous Weighted Automata"]()  
    Guoqiang Xu, **Shaowen Miao**, Aiwen Lai*, and Weiyao Lan<br>
@@ -57,8 +57,11 @@ author_profile: true
 3. ["Initial-and-Final-State Detectability of Nondeterministic Finite-State Automata"]()  
    Liren Shen, **Shaowen Miao**, Aiwen Lai*, Jan Komenda, and S&eacute;bastien Lahaye<br>
     <div><font color="FireBrick">14th Asian Control Conference (ASCC)</font>, accepted, 2024.</div>
-   <!-- <div><font color="LimeGreen">14th Asian Control Conference (ASCC)</font>, under rewiew, 2024.</div> -->
 
 4. ["Decidability of Probabilistic Current-State Opacity for Probabilistic Finite Automata"]()  
    Keru Chen, **Shaowen Miao**, Aiwen Lai, Ji Ma*, and Sihan Chen
    <div><font color="SkyBlue">43rd Chinese Control Conference (CCC)</font>, accepted, 2024.</div>
+
+# Thesis
+1. ["Timing and Safety Analysis in Discrete-Event Systems: From Verification to Synthesis"]() (in Chinese)  
+   <div><font color="SkyBlue">M.Eng. Thesis</font>, Department of Automation, Xiamen University, 2025.</div>
