@@ -38,8 +38,8 @@ author_profile: true
    <div><font color="Crimson"><b>under rewiew</b></font>.</div>
 
 8. [""]()  
-   **Shaowen Miao**, Tom&aacute;&scaron; Masopust, Jan Komenda, and Aiwen Lai*
-   <div><font color="DeepSkyBlue"><b>under rewiew</b></font>.</div>
+   **Shaowen Miao**, Petr Jan&ccaron;ar, Jan Komenda, Tom&aacute;&scaron; Masopust, and Aiwen Lai*
+   <div><font color="RoyalBlue"><b>under rewiew</b></font>.</div>
 
 <!-- 8. [""]()  
    Zhiyuan Huang, **Shaowen Miao**, and Aiwen Lai
@@ -63,5 +63,5 @@ author_profile: true
    <div><font color="SkyBlue">43rd Chinese Control Conference (CCC)</font>, accepted, 2024.</div>
 
 # Thesis
-1. ["Timing and Safety Analysis in Discrete-Event Systems: From Verification to Synthesis"]() (in Chinese)  
+1. ["Safety and Timing Analysis in Discrete-Event Systems: From Verification to Synthesis"]() (in Chinese)  
    M.Eng. Thesis, Department of Automation, Xiamen University, 2025.
