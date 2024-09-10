@@ -14,7 +14,7 @@ author_profile: true
    <div><font color="LightCoral"><b>under rewiew</b></font>.</div> -->
 
 8. [""]()  
-   **Shaowen Miao**, Petr Jan&ccaron;ar Jančar, Jan Komenda, Tom&aacute;&scaron; Masopust, and Aiwen Lai*
+   **Shaowen Miao**, Petr Jančar, Jan Komenda, Tom&aacute;&scaron; Masopust, and Aiwen Lai*
    <div><font color="RoyalBlue"><b>under rewiew</b></font>.</div>
 
 7. [""]()  
