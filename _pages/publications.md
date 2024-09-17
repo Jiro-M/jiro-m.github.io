@@ -66,5 +66,5 @@ author_profile: true
 
 # Thesis
 
-1. ["Safety and Timing Analysis in Discrete-Event Systems: From Verification to Synthesis"]() (in Chinese)  
+1. ["Security and Timing Analysis in Discrete-Event Systems: From Verification to Synthesis"]() (in Chinese)  
    M.Eng. Thesis, Department of Automation, Xiamen University, 2025.
