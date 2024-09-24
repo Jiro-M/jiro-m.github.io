@@ -14,7 +14,7 @@ author_profile: true
    <div><font color="LightCoral"><b>under rewiew</b></font>.</div> -->
 
 8. [""]()  
-   **Shaowen Miao**, Petr Jančar, Jan Komenda, Tom&aacute;&scaron; Masopust, and Aiwen Lai*
+   **Shaowen Miao**, Jan Komenda, Tom&aacute;&scaron; Masopust, and Aiwen Lai*
    <div><font color="RoyalBlue"><b>under rewiew</b></font>.</div>
 
 7. [""]()  
@@ -48,17 +48,17 @@ author_profile: true
 
 # Conference Papers
 
-4. ["Decidability of Probabilistic Current-State Opacity for Probabilistic Finite Automata"]()  
+4. ["Decidability of Probabilistic Current-State Opacity for Probabilistic Finite Automata"](https://ieeexplore.ieee.org/abstract/document/10661575)  
    Keru Chen, **Shaowen Miao**, Aiwen Lai, Ji Ma*, and Sihan Chen
-   <div><font color="SkyBlue">43rd Chinese Control Conference (CCC)</font>, accepted, 2024.</div>
+   <div><font color="SkyBlue">43rd Chinese Control Conference (CCC)</font>, pp. 1556-1561, 2024.</div>
 
-3. ["Initial-and-Final-State Detectability of Nondeterministic Finite-State Automata"]()  
+3. ["Initial-and-Final-State Detectability of Nondeterministic Finite-State Automata"](https://ieeexplore.ieee.org/abstract/document/10665365)  
    Liren Shen, **Shaowen Miao**, Aiwen Lai*, Jan Komenda, and S&eacute;bastien Lahaye<br>
-    <div><font color="FireBrick">14th Asian Control Conference (ASCC)</font>, accepted, 2024.</div>
+    <div><font color="FireBrick">14th Asian Control Conference (ASCC)</font>, pp. 509-514, 2024.</div>
 
-2. ["Verification of Delayed Detectability for Unambiguous Weighted Automata"]()  
+<!-- 2. ["Verification of Delayed Detectability for Unambiguous Weighted Automata"]()  
    Guoqiang Xu, **Shaowen Miao**, Aiwen Lai*, and Weiyao Lan<br>
-   <div><font color="LightGrey">6th International Conference on Mechatronics, Robotics and Automation (ICMRA)</font>, accepted, 2023.</div>
+   <div><font color="LightGrey">6th International Conference on Mechatronics, Robotics and Automation (ICMRA)</font>, accepted, 2023.</div> -->
 
 1. ["Verification of Detectability for Unambiguous Weighted Automata using Self-Composition"](https://ieeexplore.ieee.org/abstract/document/10284082)  
    **Shaowen Miao**, Aiwen Lai*, Xiao Yu, S&eacute;bastien Lahaye, and Jan Komenda
