@@ -20,13 +20,13 @@ redirect_from:
 
 ## Research Interests
 - **Discrete-Event Systems (DES):** Property Verification, Supervisory Control
-- **Formal Methods:** Linear Temporal Logics (LTL)
 - **Theoretical Computer Science (TCS):** Complexity Theory
+- **Formal Methods:** Linear Temporal Logics (LTL)
 
 ### Hobbies
 - Badminton, Basketball
 - Swimming, Middle-distance running
-- Rap music
+- Rap music, Tabletop games
 
 <!-- For more info
 ------
