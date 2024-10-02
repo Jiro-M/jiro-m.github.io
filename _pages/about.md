@@ -16,7 +16,7 @@ redirect_from:
 - I'm a Master student of [Department of Automation](https://auto.xmu.edu.cn/) at [Xiamen University (XMU)](https://en.xmu.edu.cn/main.htm), supervised by [Prof. Aiwen Lai](https://aivens123.github.io/aiwenlai.github.io/).
 - I will start my Ph.D. study at [The Hong Kong University of Science and Technology, Guangzhou (HKUST-GZ)](https://www.hkust-gz.edu.cn/) in Sept. 2025, supervised by [Prof. Yiding Ji](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/JI-Yiding/jiyiding).
 
-- Email: [miaosw0706@stu.xmu.edu.cn](mailto:miaosw0706@stu.xmu.edu.cn);  
+- Email: [miaosw0706@stu.xmu.edu.cn](mailto:miaosw0706@stu.xmu.edu.cn)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[miaosw0706@gmail.com](mailto:miaosw0706@gmail.com)
 
 ## Research Interests
