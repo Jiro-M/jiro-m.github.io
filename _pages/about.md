@@ -23,6 +23,8 @@ redirect_from:
 - **Discrete-Event Systems (DES):** Property Verification, Supervisory Control
 - **Theoretical Computer Science (TCS):** Complexity Theory
 - **Formal Methods:** Linear Temporal Logics (LTL)
+- **Game Theory**
+- **Reinforcement Learning**
 
 ### Hobbies
 - Badminton, Basketball
