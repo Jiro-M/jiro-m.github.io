@@ -23,7 +23,7 @@ redirect_from:
 - **Discrete-Event Systems (DES):** Property Verification, Supervisory Control
 - **Theoretical Computer Science (TCS):** Complexity Theory
 - **Formal Methods:** Linear Temporal Logics (LTL)
-- **Game Theory**
+- **Game Theory:** Automata Game-Based Synthesis
 - **Reinforcement Learning**
 
 ### Hobbies
