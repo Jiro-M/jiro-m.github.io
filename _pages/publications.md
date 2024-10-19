@@ -52,21 +52,21 @@ author_profile: true
 
 # Conference Papers
 
-3. ["Decidability of Probabilistic Current-State Opacity for Probabilistic Finite Automata"](https://ieeexplore.ieee.org/abstract/document/10661575)  
+4. ["Decidability of Probabilistic Current-State Opacity for Probabilistic Finite Automata"](https://ieeexplore.ieee.org/document/10661575)  
    Keru Chen, **Shaowen Miao**, Aiwen Lai, Ji Ma*, and Sihan Chen
    <div><font color="SkyBlue">43rd Chinese Control Conference (CCC)</font>, pp. 1556-1561, 2024.</div>
 
-2. ["Initial-and-Final-State Detectability of Nondeterministic Finite-State Automata"](https://ieeexplore.ieee.org/abstract/document/10665365)  
+3. ["Initial-and-Final-State Detectability of Nondeterministic Finite-State Automata"](https://ieeexplore.ieee.org/document/10665365)  
    Liren Shen, **Shaowen Miao**, Aiwen Lai*, Jan Komenda, and S&eacute;bastien Lahaye<br>
     <div><font color="FireBrick">14th Asian Control Conference (ASCC)</font>, pp. 509-514, 2024.</div>
 
-1. ["Verification of Detectability for Unambiguous Weighted Automata using Self-Composition"](https://ieeexplore.ieee.org/abstract/document/10284082)  
+2. ["Verification of Delayed Detectability for Unambiguous Weighted Automata"](https://ieeexplore.ieee.org/document/10708371)  
+   Guoqiang Xu, **Shaowen Miao**, Aiwen Lai*, and Weiyao Lan<br>
+   <div><font color="LightGrey">6th International Conference on Mechatronics, Robotics and Automation (ICMRA)</font>, pp. 1-5, 2023.</div>
+
+1. ["Verification of Detectability for Unambiguous Weighted Automata using Self-Composition"](https://ieeexplore.ieee.org/document/10284082)  
    **Shaowen Miao**, Aiwen Lai*, Xiao Yu, S&eacute;bastien Lahaye, and Jan Komenda
    <div><font color="SkyBlue">9th International Conference on Control, Decision and Information Technologies (CoDIT)</font>, pp. 251-256, 2023. <a href="https://jiro-m.github.io/papers/23CoDIT.pdf">[Corr.]</a> </div>
-
-<!-- 2. ["Verification of Delayed Detectability for Unambiguous Weighted Automata"]()  
-   Guoqiang Xu, **Shaowen Miao**, Aiwen Lai*, and Weiyao Lan<br>
-   <div><font color="LightGrey">6th International Conference on Mechatronics, Robotics and Automation (ICMRA)</font>, accepted, 2023.</div> -->
 
 # Thesis
 
