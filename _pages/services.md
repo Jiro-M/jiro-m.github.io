@@ -12,6 +12,7 @@ author_profile: true
 - Automatica
 - Discrete Event Dynamic Systems: Theory and Applications (JDEDS)
 - Information Sciences (INS)
+- IEEE Transactions on Automation Science and Engineering (TASE)
 
 # Conference Reviewer
 - American Control Conference (ACC)
