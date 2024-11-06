@@ -39,7 +39,7 @@ author_profile: true
 
 3. ["Always Guarding You: Strong Initial-and-Final-State Opacity of Discrete-Event Systems"]()  
    **Shaowen Miao**, Aiwen Lai*, and Jan Komenda
-   <div><font color="Crimson"><b>Automatica</b></font>, Accept provisionally. (Regular Paper)</div>
+   <div><font color="Crimson"><b>Automatica</b></font>, accepted and in press, 2025. (<b>Regular Paper</b>)</div>
 
 2. [""]()  
    **Shaowen Miao**, Aiwen Lai*, Jan Komenda, and S&eacute;bastien Lahaye
