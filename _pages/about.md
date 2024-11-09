@@ -17,7 +17,8 @@ redirect_from:
 - I will start my Ph.D. study at [The Hong Kong University of Science and Technology, Guangzhou (HKUST-GZ)](https://www.hkust-gz.edu.cn/) in Sept. 2025, supervised by [Prof. Yiding Ji](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/JI-Yiding/jiyiding).
 
 - Email: [miaosw0706@stu.xmu.edu.cn](mailto:miaosw0706@stu.xmu.edu.cn)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[miaosw0706@gmail.com](mailto:miaosw0706@gmail.com)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[miaosw0706@gmail.com](mailto:miaosw0706@gmail.com)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[smiao585@connect.hkust-gz.edu.cn](mailto:smiao585@connect.hkust-gz.edu.cn)
 
 ## Research Interests
 - **Discrete-Event Systems (DES):** Property Verification, Supervisory Control
