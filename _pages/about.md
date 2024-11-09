@@ -31,6 +31,7 @@ redirect_from:
 - Badminton, Basketball
 - Swimming, Middle-distance running
 - Rap music, Tabletop games
+- Pok&eacute;mon
 
 <!-- For more info
 ------
