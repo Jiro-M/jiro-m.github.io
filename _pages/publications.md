@@ -13,6 +13,10 @@ author_profile: true
    Zhiyuan Huang, **Shaowen Miao**, and Aiwen Lai
    <div><font color="LightCoral"><b>under rewiew</b></font>.</div> -->
 
+10. [""]()  
+   Peiran Liu, **Shaowen Miao**, Yiding Ji*, and Xiang Yin
+   <div><font color="ForestGreen"><b>under rewiew</b></font>.</div>
+
 9. [""]()  
    **Shaowen Miao**, Petr Jančar, Jan Komenda, Tom&aacute;&scaron; Masopust, and Aiwen Lai*
    <div><font color="RoyalBlue"><b>under rewiew</b></font>.</div>
@@ -47,10 +51,13 @@ author_profile: true
 
 1. [""]()  
    **Shaowen Miao**, Aiwen Lai*, Jan Komenda, and S&eacute;bastien Lahaye
-   <div><font color="Crimson"><b>under 2nd rewiew</b></font>.</div>
+   <div><font color="DeepSkyBlue"><b>under rewiew</b></font>.</div>
 
 
 # Conference Papers
+5. ["Supervisory Control for Current-State Opacity Enforcement under Encrypted Observations"]()  
+   Yonghong Luo, **Shaowen Miao**, Weiyao Lan, and Aiwen Lai*
+   <div><font color="SkyBlue">37th Chinese Control and Decision Conference (CCDC)</font>, under review</div>
 
 4. ["Decidability of Probabilistic Current-State Opacity for Probabilistic Finite Automata"](https://ieeexplore.ieee.org/document/10661575)  
    Keru Chen, **Shaowen Miao**, Aiwen Lai, Ji Ma*, and Sihan Chen
@@ -64,9 +71,9 @@ author_profile: true
    Guoqiang Xu, **Shaowen Miao**, Aiwen Lai*, and Weiyao Lan<br>
    <div><font color="LightGrey">6th International Conference on Mechatronics, Robotics and Automation (ICMRA)</font>, pp. 1-5, 2023.</div>
 
-1. ["Verification of Detectability for Unambiguous Weighted Automata using Self-Composition"](https://ieeexplore.ieee.org/document/10284082)  
+1. ["Verification of Detectability for Unambiguous Weighted Automata using Self-Composition"](https://ieeexplore.ieee.org/document/10284082)<a href="https://jiro-m.github.io/papers/23CoDIT.pdf">[Corr.]</a>  
    **Shaowen Miao**, Aiwen Lai*, Xiao Yu, S&eacute;bastien Lahaye, and Jan Komenda
-   <div><font color="SkyBlue">9th International Conference on Control, Decision and Information Technologies (CoDIT)</font>, pp. 251-256, 2023. <a href="https://jiro-m.github.io/papers/23CoDIT.pdf">[Corr.]</a> </div>
+   <div><font color="SkyBlue">9th International Conference on Control, Decision and Information Technologies (CoDIT)</font>, pp. 251-256, 2023.</div>
 
 # Thesis
 
