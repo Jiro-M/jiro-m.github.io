@@ -35,19 +35,19 @@ author_profile: true
 
 4. ["Verification of Initial-and-Final-State Opacity for Unambiguous Weighted Automata"](https://www.sciencedirect.com/science/article/pii/S0019057824001277)  
    Liren Shen, **Shaowen Miao**, Aiwen Lai*, and Jan Komenda
-   <div><font color="Chocolate"><b>ISA Transactions</b></font>, 148:237-246, 2024.</div>
+   <div><font color="Chocolate"><b>ISA Transactions</b></font>, 148: 237-246, 2024.</div>
 
-3. ["Always Guarding You: Strong Initial-and-Final-State Opacity of Discrete-Event Systems"]()  
+3. ["Always Guarding You: Strong Initial-and-Final-State Opacity of Discrete-Event Systems"](https://www.sciencedirect.com/science/article/pii/S0005109824005788)  
    **Shaowen Miao**, Aiwen Lai*, and Jan Komenda
-   <div><font color="Crimson"><b>Automatica</b></font>, accepted and in press, 2025. (<b>Regular Paper</b>)</div>
+   <div><font color="Crimson"><b>Automatica</b></font>, 173: 112085, 2025. (<b>Regular Paper</b>)</div>
 
 2. [""]()  
    **Shaowen Miao**, Aiwen Lai*, Jan Komenda, and S&eacute;bastien Lahaye
-   <div><font color="Orange"><b>under rewiew</b></font>.</div>
+   <div><font color="Orange"><b>under 2nd rewiew</b></font>.</div>
 
 1. [""]()  
    **Shaowen Miao**, Aiwen Lai*, Jan Komenda, and S&eacute;bastien Lahaye
-   <div><font color="DeepSkyBlue"><b>under rewiew</b></font>.</div>
+   <div><font color="DeepSkyBlue"><b>under 2nd rewiew</b></font>.</div>
 
 
 # Conference Papers
