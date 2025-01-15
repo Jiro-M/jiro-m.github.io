@@ -23,9 +23,10 @@ redirect_from:
 ## Research Interests
 - **Discrete-Event Systems (DES):** Property Verification, Supervisory Control
 - **Theoretical Computer Science (TCS):** Complexity Theory
-- **Formal Methods:** Linear Temporal Logics (LTL)
+- **Formal Methods:** Temporal Logics
 - **Game Theory:** Automata Game-Based Synthesis
 - **Reinforcement Learning**
+- **Robotics**
 
 ### Hobbies
 - Badminton, Basketball

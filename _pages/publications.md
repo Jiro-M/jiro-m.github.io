@@ -51,7 +51,7 @@ author_profile: true
 
 
 # Conference Papers
-5. ["Supervisory Control for Current-State Opacity Enforcement under Encrypted Observations"]()  
+5. ["Supervisory Control for Current-State E-Opacity Enforcement under Encrypted Observations"]()  
    Yonghong Luo, **Shaowen Miao**, Weiyao Lan, and Aiwen Lai*
    <div><font color="SkyBlue">37th Chinese Control and Decision Conference (CCDC)</font>, under review</div>
 
@@ -71,7 +71,7 @@ author_profile: true
    **Shaowen Miao**, Aiwen Lai*, Xiao Yu, S&eacute;bastien Lahaye, and Jan Komenda
    <div><font color="SkyBlue">9th International Conference on Control, Decision and Information Technologies (CoDIT)</font>, pp. 251-256, 2023.</div>
 
-# Thesis
+# Thesis/Dissertation
 
 1. ["Security and Timing Analysis in Discrete-Event Systems: From Verification to Synthesis"]() (in Chinese)  
    M.Eng. Thesis, Department of Automation, Xiamen University, 2025.
