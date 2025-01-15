@@ -29,9 +29,9 @@ author_profile: true
    **Shaowen Miao**, Jan Komenda, Tom&aacute;&scaron; Masopust, and Aiwen Lai*
    <div><font color="RoyalBlue"><b>under 2nd rewiew</b></font>.</div>
 
-5. [""]()  
+5. ["Active Diagnosis of Time-Interval Automata: Time Perspectives"]()  
    **Shaowen Miao**, Jan Komenda, and Aiwen Lai*
-   <div><font color="DeepSkyBlue"><b>under 2nd rewiew</b></font>.</div>
+   <div><font color="DeepSkyBlue"><b>IEEE Transactions on Automation Science and Engineering (T-ASE)</b></font>, accepted and in press.</div>
 
 4. ["Verification of Initial-and-Final-State Opacity for Unambiguous Weighted Automata"](https://www.sciencedirect.com/science/article/pii/S0019057824001277)  
    Liren Shen, **Shaowen Miao**, Aiwen Lai*, and Jan Komenda
