@@ -51,7 +51,7 @@ author_profile: true
 
 
 # Conference Papers
-5. ["Supervisory Control for Current-State E-Opacity Enforcement under Encrypted Observations"]()  
+5. ["Supervisory Control for Current-State Opacity Enforcement under Encrypted Observations"]()  
    Yonghong Luo, **Shaowen Miao**, Weiyao Lan, and Aiwen Lai*
    <div><font color="SkyBlue">37th Chinese Control and Decision Conference (CCDC)</font>, under review</div>
 
