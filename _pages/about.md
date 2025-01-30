@@ -31,8 +31,8 @@ redirect_from:
 ### Hobbies
 - Badminton, Basketball
 - Swimming, Middle-distance running
-- Rap music, Tabletop games
-- Pok&eacute;mon
+- Rap music, Pop music, Texas hold'em, Tabletop games
+- Pok&eacute;mon, Meitantei Konan
 
 <!-- For more info
 ------

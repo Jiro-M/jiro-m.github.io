@@ -11,7 +11,7 @@ author_profile: true
 - IEEE Transactions on Automatic Control (TAC)
 - Automatica
 - Discrete Event Dynamic Systems: Theory and Applications (JDEDS)
-- IEEE Transactions on Automation Science and Engineering (TASE)
+- IEEE Transactions on Automation Science and Engineering (T-ASE)
 - Information Sciences (INS)
 
 # Conference Reviewer

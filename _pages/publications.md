@@ -45,9 +45,9 @@ author_profile: true
    **Shaowen Miao**, Aiwen Lai*, Jan Komenda, and S&eacute;bastien Lahaye
    <div><font color="Orange"><b>under 2nd rewiew</b></font>.</div>
 
-1. [""]()  
+1. ["Decentralized Fault Diagnosis for Constant-Time Automata"]()  
    **Shaowen Miao**, Aiwen Lai*, Jan Komenda, and S&eacute;bastien Lahaye
-   <div><font color="DeepSkyBlue"><b>under 2nd rewiew</b></font>.</div>
+   <div><font color="DeepSkyBlue"><b>IEEE Control Systems Letters (L-CSS)</b></font>, accepted and in press.</div>
 
 
 # Conference Papers
