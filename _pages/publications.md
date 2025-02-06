@@ -15,7 +15,7 @@ author_profile: true
 
 9. [""]()  
    **Shaowen Miao**, Petr Jančar, Jan Komenda, Tom&aacute;&scaron; Masopust, and Aiwen Lai*
-   <div><font color="RoyalBlue"><b>under 2nd rewiew</b></font>.</div>
+   <div><font color="Crimson"><b>under rewiew</b></font>.</div>
 
 8. [""]()  
    Yonghong Luo, **Shaowen Miao**, and Aiwen Lai*
@@ -27,7 +27,7 @@ author_profile: true
 
 6. [""]()  
    **Shaowen Miao**, Jan Komenda, Tom&aacute;&scaron; Masopust, and Aiwen Lai*
-   <div><font color="Crimson"><b>under rewiew</b></font>.</div>
+   <div><font color="RoyalBlue"><b>under 2nd rewiew</b></font>.</div>
 
 5. ["Active Diagnosis of Time-Interval Automata: Time Perspectives"](https://ieeexplore.ieee.org/document/10847706)  
    **Shaowen Miao**, Jan Komenda, and Aiwen Lai*
