@@ -62,7 +62,7 @@ author_profile: true
 
 5. ["Supervisory Control for Current-State Opacity Enforcement under Encrypted Observations"]()  
    Yonghong Luo, **Shaowen Miao**, Weiyao Lan, and Aiwen Lai*
-   <div><font color="SkyBlue">37th Chinese Control and Decision Conference (CCDC)</font>, under review</div>
+   <div><font color="SkyBlue">37th Chinese Control and Decision Conference (CCDC)</font>, accepted</div>
 
 4. ["Decidability of Probabilistic Current-State Opacity for Probabilistic Finite Automata"](https://ieeexplore.ieee.org/document/10661575)  
    Keru Chen, **Shaowen Miao**, Aiwen Lai, Ji Ma*, and Sihan Chen
