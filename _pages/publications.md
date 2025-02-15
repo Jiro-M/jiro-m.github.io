@@ -74,11 +74,11 @@ author_profile: true
 
 2. ["Verification of Delayed Detectability for Unambiguous Weighted Automata"](https://ieeexplore.ieee.org/document/10708371)  
    Guoqiang Xu, **Shaowen Miao**, Aiwen Lai*, and Weiyao Lan<br>
-   <div><font color="LightGrey">6th IEEE International Conference on Mechatronics, Robotics and Automation (ICMRA)</font>, pp. 1-5, 2023.</div>
+   <div><font color="LightGrey">6th International Conference on Mechatronics, Robotics and Automation (ICMRA)</font>, pp. 1-5, 2023.</div>
 
 1. ["Verification of Detectability for Unambiguous Weighted Automata using Self-Composition"](https://ieeexplore.ieee.org/document/10284082) <a href="https://jiro-m.github.io/papers/23CoDIT.pdf">[Corr.]</a>  
    **Shaowen Miao**, Aiwen Lai*, Xiao Yu, S&eacute;bastien Lahaye, and Jan Komenda
-   <div><font color="SkyBlue">9th IEEE/IFAC International Conference on Control, Decision and Information Technologies (CoDIT)</font>, pp. 251-256, 2023.</div>
+   <div><font color="SkyBlue">9th International Conference on Control, Decision and Information Technologies (CoDIT)</font>, pp. 251-256, 2023.</div>
 
 # Thesis/Dissertation
 
