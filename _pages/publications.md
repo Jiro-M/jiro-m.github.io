@@ -62,7 +62,7 @@ author_profile: true
 
 5. ["Supervisory Control for Current-State Opacity Enforcement under Encrypted Observations"]()  
    Yonghong Luo, **Shaowen Miao**, Weiyao Lan, and Aiwen Lai*
-   <div><font color="SkyBlue">37th Chinese Control and Decision Conference (CCDC)</font>, accepted</div>
+   <div><font color="SkyBlue">37th Chinese Control and Decision Conference (CCDC)</font>, accepted, 2025.</div>
 
 4. ["Decidability of Probabilistic Current-State Opacity for Probabilistic Finite Automata"](https://ieeexplore.ieee.org/document/10661575)  
    Keru Chen, **Shaowen Miao**, Aiwen Lai, Ji Ma*, and Sihan Chen
@@ -82,5 +82,5 @@ author_profile: true
 
 # Thesis/Dissertation
 
-1. ["Security and Timing Analysis in Discrete-Event Systems: From Verification to Synthesis"]() (in Chinese)  
+1. "Security and Timing Analysis in Discrete-Event Systems: From Verification to Synthesis" [PDF]() (in Chinese)  
    M.Eng. Thesis, Department of Automation, Xiamen University, 2025.
