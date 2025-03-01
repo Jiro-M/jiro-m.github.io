@@ -15,7 +15,7 @@ author_profile: true
 
 5. ["Active Diagnosis of Time-Interval Automata: Time Perspectives"](https://ieeexplore.ieee.org/document/10847706)  
    **Shaowen Miao**, Jan Komenda, and Aiwen Lai*
-   <div><font color="DeepSkyBlue"><b>IEEE Transactions on Automation Science and Engineering (T-ASE)</b></font>, early access.</div>
+   <div><font color="DeepSkyBlue"><b>IEEE Transactions on Automation Science and Engineering (T-ASE)</b></font>, early access, 2025.</div>
 
 1. ["Decentralized Fault Diagnosis for Constant-Time Automata"](https://ieeexplore.ieee.org/document/10870273)  
    **Shaowen Miao**, Aiwen Lai*, Jan Komenda, and S&eacute;bastien Lahaye
@@ -31,7 +31,8 @@ author_profile: true
 
 10. [""]()  
    Peiran Liu, **Shaowen Miao**, Yiding Ji*, and Xiang Yin
-   <div><font color="ForestGreen"><b>under rewiew</b></font>.</div>
+   <!-- <div><font color="ForestGreen"><b>under rewiew</b></font>.</div> -->
+   <span style="color:ForestGreen;"><b>under rewiew</b>.</span>.
 
 9. [""]()  
    **Shaowen Miao**, Petr Jančar, Jan Komenda, Tom&aacute;&scaron; Masopust, and Aiwen Lai*
