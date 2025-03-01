@@ -10,8 +10,9 @@ author_profile: true
 # Journal Papers
 
 3. ["Always Guarding You: Strong Initial-and-Final-State Opacity of Discrete-Event Systems"](https://www.sciencedirect.com/science/article/pii/S0005109824005788)  
-   **Shaowen Miao**, Aiwen Lai*, and Jan Komenda
-   <div><font color="Crimson"><b>Automatica</b></font>, 173: 112085, 2025. (<b>Regular Paper</b>)</div>
+   **Shaowen Miao**, Aiwen Lai*, and Jan Komenda  
+   <!-- <div><font color="Crimson"><b>Automatica</b></font>, 173: 112085, 2025. (<b>Regular Paper</b>)</div> -->
+   <span style="color:Crimson;"><b>Automatica</b></span>, 173: 112085, 2025. (<b>Regular Paper</b>)
 
 5. ["Active Diagnosis of Time-Interval Automata: Time Perspectives"](https://ieeexplore.ieee.org/document/10847706)  
    **Shaowen Miao**, Jan Komenda, and Aiwen Lai*
@@ -30,9 +31,9 @@ author_profile: true
    <div><font color="DeepSkyBlue"><b>under rewiew</b></font>.</div> -->
 
 10. [""]()  
-   Peiran Liu, **Shaowen Miao**, Yiding Ji*, and Xiang Yin
+   Peiran Liu, **Shaowen Miao**, Yiding Ji*, and Xiang Yin  
    <!-- <div><font color="ForestGreen"><b>under rewiew</b></font>.</div> -->
-   <span style="color:ForestGreen;"><b>under rewiew</b>.</span>.
+   <span style="color:ForestGreen;"><b>under rewiew</b></span>.
 
 9. [""]()  
    **Shaowen Miao**, Petr Jančar, Jan Komenda, Tom&aacute;&scaron; Masopust, and Aiwen Lai*
