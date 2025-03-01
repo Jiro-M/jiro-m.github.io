@@ -25,9 +25,9 @@ author_profile: true
    Liren Shen, **Shaowen Miao**, Aiwen Lai*, and Jan Komenda
    <div><font color="Chocolate"><b>ISA Transactions</b></font>, 148: 237-246, 2024.</div>
 
-11. ["Protect Your Knowledge: Epistemic Property Enforcement of Discrete-Event Systems with Asymmetric Information"]()  
+11. [""]()  
    **Shaowen Miao**, Bohan Cui, Yiding Ji*, Xiang Yin
-   <div><font color="DeepSkyBlue">under rewiew</font>.</div>
+   <div><font color="DeepSkyBlue"><b>under rewiew</b></font>.</div>
 
 10. [""]()  
    Peiran Liu, **Shaowen Miao**, Yiding Ji*, and Xiang Yin
