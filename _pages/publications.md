@@ -50,9 +50,9 @@ author_profile: true
    Yonghong Luo, **Shaowen Miao**, and Aiwen Lai*
    <div><font color="Chocolate"><b>under 2nd rewiew</b></font>.</div>
 
-<!-- 1. [""]()  
+1. [""]()  
    **Shaowen Miao**, Bohan Cui, Yiding Ji*, Xiang Yin
-   <div><font color="DeepSkyBlue"><b>under rewiew</b></font>.</div> -->
+   <div><font color="DeepSkyBlue"><b>under rewiew</b></font>.</div>
 
 
 # Conference Papers

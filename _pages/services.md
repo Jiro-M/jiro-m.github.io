@@ -7,8 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
-<!-- # Academic Organizations
-- Graduate Student Member of IEEE -->
+# Academic Organizations
+- Graduate Student Member of IEEE
 
 # Journal Reviewer
 - IEEE Transactions on Automatic Control (TAC)
