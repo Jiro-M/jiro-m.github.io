@@ -17,7 +17,7 @@ redirect_from:
 supervised by [Prof. Aiwen Lai](https://aivens123.github.io/aiwenlai.github.io/).
 - During my Master studies, I had the privilege of working with [Dr. Jan Komenda](https://www.math.cas.cz/index.php/members/researcher/50),  
 [Prof. S&eacute;bastien Lahaye](https://perso-laris.univ-angers.fr/~lahaye/), [Prof. Tom&aacute;&scaron; Masopust](https://apollo.inf.upol.cz/~masopust/), [Prof. Feng Lin](https://wayne.edu/people/aa0986), and [Prof. Petr Jančar](https://phoenix.inf.upol.cz/~jancarp/).
-- I will start my Ph.D. study at [The Hong Kong University of Science and Technology, Guangzhou (HKUST-GZ)](https://www.hkust-gz.edu.cn/) in Sept. 2025, supervised by [Prof. Yiding Ji](https://personal.hkust-gz.edu.cn/jiyiding/index.html).
+- I will start my Ph.D. study at [The Hong Kong University of Science and Technology, Guangzhou (HKUST-GZ)](https://www.hkust-gz.edu.cn/) in Aug. 2025, supervised by [Prof. Yiding Ji](https://personal.hkust-gz.edu.cn/jiyiding/index.html).
 
 - Email: [miaosw0706@stu.xmu.edu.cn](mailto:miaosw0706@stu.xmu.edu.cn)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[miaosw0706@gmail.com](mailto:miaosw0706@gmail.com)  
