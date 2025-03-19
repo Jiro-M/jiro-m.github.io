@@ -60,7 +60,7 @@ author_profile: true
    Guanda Chen*, **Shaowen Miao**, Yiding Ji, Shuo Han
    <div><font color="RoyalBlue">64th IEEE Conference on Decision and Control (CDC)</font>, under review</div> -->
 
-5. ["Supervisory Control for Current-State Opacity Enforcement under Encrypted Observations"]()  
+5. ["Supervisory Control for Current-State E-Opacity Enforcement under Encrypted Observations"]()  
    Yonghong Luo, **Shaowen Miao**, Weiyao Lan, and Aiwen Lai*
    <div><font color="SkyBlue">37th Chinese Control and Decision Conference (CCDC)</font>, accepted, 2025.</div>
 
