@@ -56,9 +56,6 @@ author_profile: true
 
 
 # Conference Papers
-<!-- 6. ["Perturb the Leader or Not: An Online Non-convex Learning Approach for Stackelberg Security Games"]()  
-   Guanda Chen*, **Shaowen Miao**, Yiding Ji, Shuo Han
-   <div><font color="RoyalBlue">64th IEEE Conference on Decision and Control (CDC)</font>, under review</div> -->
 
 5. ["Supervisory Control for Current-State E-Opacity Enforcement under Encrypted Observations"]()  
    Yonghong Luo, **Shaowen Miao**, Weiyao Lan, and Aiwen Lai*

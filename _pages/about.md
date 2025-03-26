@@ -33,9 +33,10 @@ supervised by [Prof. Aiwen Lai](https://aivens123.github.io/aiwenlai.github.io/)
 
 ### Hobbies
 - Badminton, Basketball
-- Swimming, Middle-distance running
-- Rap music, Pop music, Texas hold'em, Tabletop games
-- Pok&eacute;mon, Meitantei Konan
+- Fitness, Swimming, Middle-distance running
+- Rap music, Pop music
+- Texas hold'em, Tabletop games
+- Pok&eacute;mon, Meitantei Konan, Roco Kingdom
 
 <!-- For more info
 ------
