@@ -11,10 +11,11 @@ author_profile: true
 - Graduate Student Member of IEEE
 
 # Journal Reviewer
-- IEEE Transactions on Automatic Control (TAC)
 - Automatica
-- Discrete Event Dynamic Systems: Theory and Applications (JDEDS)
+- IEEE Transactions on Automatic Control (TAC)
 - IEEE Transactions on Automation Science and Engineering (T-ASE)
+- IEEE Control Systems Letters (L-CSS)
+- Discrete Event Dynamic Systems: Theory and Applications (JDEDS)
 - Information Sciences (INS)
 
 # Conference Reviewer
