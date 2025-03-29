@@ -31,7 +31,7 @@ supervised by [Prof. Aiwen Lai](https://aivens123.github.io/aiwenlai.github.io/)
 - **Reinforcement Learning**
 - **Robotics**
 
-### Hobbies
+## Hobbies
 - Badminton, Basketball
 - Fitness, Swimming, Middle-distance running
 - Rap music, Pop music
