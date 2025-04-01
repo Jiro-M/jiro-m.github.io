@@ -35,8 +35,8 @@ supervised by [Prof. Aiwen Lai](https://aivens123.github.io/aiwenlai.github.io/)
 - Badminton, Basketball
 - Fitness, Swimming, Middle-distance running
 - Rap music, Pop music
-- Texas hold'em, Tabletop games
-- Pok&eacute;mon, Meitantei Konan, Roco Kingdom
+- Tabletop games, Roco Kingdom
+- Pok&eacute;mon, Meitantei Konan
 
 <!-- For more info
 ------
