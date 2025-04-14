@@ -54,6 +54,10 @@ author_profile: true
    Yonghong Luo, **Shaowen Miao**, and Aiwen Lai*
    <div><font color="Chocolate"><b>under 2nd rewiew</b></font>.</div>
 
+2. [""]()  
+   Yonghong Luo, **Shaowen Miao**, and Aiwen Lai*
+   <div><font color="Chocolate"><b>under rewiew</b></font>.</div>
+
 # Conference Papers
 
 5. ["Supervisory Control for Current-State E-Opacity Enforcement under Encrypted Observations"]()  
