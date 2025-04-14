@@ -38,7 +38,7 @@ author_profile: true
    <div><font color="Crimson"><b>under 2nd rewiew</b></font>.</div>
 
 1. [""]()  
-   **Shaowen Miao**, Bohan Cui, Yiding Ji*, Xiang Yin
+   **Shaowen Miao**, Bohan Cui, Yiding Ji*, and Xiang Yin
    <div><font color="DeepSkyBlue"><b>under rewiew</b></font>.</div>
 
 0. [""]()  
