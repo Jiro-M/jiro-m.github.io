@@ -11,8 +11,8 @@ redirect_from:
 {% include base_path %}
 
 # About me
-- I was born in July 2000, in [Ningde](https://en.wikipedia.org/wiki/Ningde), Fujian, China.
-- I received a B.Eng. degree in [Automation](https://dqxy.fzu.edu.cn/en/info/1003/1018.htm) and a minor in [AI](https://ccds.fzu.edu.cn/) from [Fuzhou University (FZU)](https://en.fzu.edu.cn/) in 2022.
+- I was born in July 2000, [Ningde](https://en.wikipedia.org/wiki/Ningde), Fujian, China.
+- I received a B.Eng. degree in [Automation](https://dqxy.fzu.edu.cn/en/info/1003/1018.htm) and a minor in [AI](https://ccds.fzu.edu.cn/), [Fuzhou University (FZU)](https://en.fzu.edu.cn/), 2022.
 - I'm a Master student of [Department of Automation](https://auto.xmu.edu.cn/) at [Xiamen University (XMU)](https://en.xmu.edu.cn/main.htm),  
 supervised by [Prof. Aiwen Lai](https://aivens123.github.io/aiwenlai.github.io/).
 - During my Master studies, I had the privilege of working with [Dr. Jan Komenda](https://www.math.cas.cz/index.php/members/researcher/50),  
