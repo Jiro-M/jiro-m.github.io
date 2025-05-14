@@ -13,9 +13,17 @@ author_profile: true
    **Shaowen Miao**, Aiwen Lai*, and Jan Komenda  
    <div><font color="Crimson"><b>Automatica</b></font>, 173: 112085, 2025. (<b>Regular Paper</b>)</div>
 
+6. ["Enforcement of Critical Observability in Modular Discrete-Event Systems"]()  
+   **Shaowen Miao**, Jan Komenda, Tom&aacute;&scaron; Masopust, and Aiwen Lai*
+   <div><font color="RoyalBlue"><b>IEEE Transactions on Automatic Control (TAC)</b></font>, conditionally accepted.</div>
+
 5. ["Active Diagnosis of Time-Interval Automata: Time Perspectives"](https://ieeexplore.ieee.org/document/10847706)  
    **Shaowen Miao**, Jan Komenda, and Aiwen Lai*
    <div><font color="DeepSkyBlue"><b>IEEE Transactions on Automation Science and Engineering (T-ASE)</b></font>, early access, 2025.</div>
+
+1. ["Protect Your Knowledge: Epistemic Property Enforcement of Discrete-Event Systems with Asymmetric Information"]()  
+   **Shaowen Miao**, Bohan Cui, Yiding Ji*, and Xiang Yin
+   <div><font color="DeepSkyBlue"><b>IEEE Control Systems Letters (L-CSS)</b></font>, accepted.</div>
 
 1. ["Decentralized Fault Diagnosis for Constant-Time Automata"](https://ieeexplore.ieee.org/document/10870273)  
    **Shaowen Miao**, Aiwen Lai*, Jan Komenda, and S&eacute;bastien Lahaye
@@ -29,17 +37,9 @@ author_profile: true
    **Shaowen Miao**, Petr Jančar, Jan Komenda, Tom&aacute;&scaron; Masopust, and Aiwen Lai*
    <div><font color="Crimson"><b>under rewiew</b></font>.</div>
 
-6. [""]()  
-   **Shaowen Miao**, Jan Komenda, Tom&aacute;&scaron; Masopust, and Aiwen Lai*
-   <div><font color="RoyalBlue"><b>under 3rd rewiew</b></font>.</div>
-
 7. [""]()  
    **Shaowen Miao**, Jan Komenda*, and Feng Lin
    <div><font color="Crimson"><b>under 2nd rewiew</b></font>.</div>
-
-1. [""]()  
-   **Shaowen Miao**, Bohan Cui, Yiding Ji*, and Xiang Yin
-   <div><font color="DeepSkyBlue"><b>under rewiew</b></font>.</div>
 
 2. [""]()  
    Yonghong Luo, **Shaowen Miao**, and Aiwen Lai*
@@ -47,7 +47,7 @@ author_profile: true
 
 0. [""]()  
    Peiran Liu, **Shaowen Miao**, Yiding Ji*, and Xiang Yin
-   <div><font color="ForestGreen"><b>under rewiew</b></font>.</div>
+   <div><font color="ForestGreen"><b>under 2nd rewiew</b></font>.</div>
 
 2. [""]()  
    **Shaowen Miao**, Aiwen Lai*, Jan Komenda, and S&eacute;bastien Lahaye
