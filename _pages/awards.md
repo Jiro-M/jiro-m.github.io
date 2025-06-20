@@ -8,6 +8,7 @@ author_profile: true
 {% include base_path %}
 
 # Awards
+- 2025, Excellence Star of Department of Automation, Xiamen University
 - 2025, Guotai Junan Securities Scholarship
 - 2022, Outstanding Graduate of Fuzhou University
 - 2021, First Prize of Fuzhou University Electronic Design Competition

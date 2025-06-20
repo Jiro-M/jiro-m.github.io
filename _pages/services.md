@@ -13,6 +13,7 @@ author_profile: true
 # Journal Reviewer
 - Automatica
 - IEEE Transactions on Automatic Control (TAC)
+- Information and Computation (IANDC)
 - IEEE Transactions on Automation Science and Engineering (T-ASE)
 - IEEE Control Systems Letters (L-CSS)
 - Discrete Event Dynamic Systems: Theory and Applications (JDEDS)
@@ -23,3 +24,4 @@ author_profile: true
 - IEEE Conference on Decision and Control (CDC)
 - IFAC Workshop on Discrete Event Systems (WODES)
 - IEEE Conference on Automation Science and Engineering (CASE)
+- IEEE Conference on Control Technology and Applications (CCTA)

@@ -10,7 +10,7 @@ author_profile: true
 # Education
 - **The Hong Kong University of Science and Technology (Guangzhou)**
     - Ph.D. in Robotics and Autonomous Systems <span style="float:right"> Aug. 2025 - June 2028 (Expected)</span>
-    - Supervisor: [Prof. Yiding Ji](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/JI-Yiding/jiyiding)
+    - Supervisor: [Prof. Yiding Ji](https://personal.hkust-gz.edu.cn/jiyiding/index.html)
 
 - **Xiamen University**
     - M.Eng. in Control Engineering <span style="float:right"> Sept. 2022 - June 2025</span>

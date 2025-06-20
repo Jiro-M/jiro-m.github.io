@@ -21,13 +21,13 @@ author_profile: true
    **Shaowen Miao**, Jan Komenda, and Aiwen Lai*
    <div><font color="DeepSkyBlue"><b>IEEE Transactions on Automation Science and Engineering (T-ASE)</b></font>, early access, 2025.</div>
 
-1. ["Protect Your Knowledge: Epistemic Property Enforcement of Discrete-Event Systems with Asymmetric Information"]()  
-   **Shaowen Miao**, Bohan Cui, Yiding Ji*, and Xiang Yin
-   <div><font color="DeepSkyBlue"><b>IEEE Control Systems Letters (L-CSS)</b></font>, accepted.</div>
+1. ["Protect Your Knowledge: Epistemic Property Enforcement of Discrete-Event Systems with Asymmetric Information"](https://ieeexplore.ieee.org/document/11032113)  
+   **Shaowen Miao**, Bohan Cui, Yiding Ji*, and Xiang Yin*
+   <div><font color="DeepSkyBlue"><b>IEEE Control Systems Letters (L-CSS)</b></font>, early access, 2025.</div>
 
 1. ["Decentralized Fault Diagnosis for Constant-Time Automata"](https://ieeexplore.ieee.org/document/10870273)  
    **Shaowen Miao**, Aiwen Lai*, Jan Komenda, and S&eacute;bastien Lahaye
-   <div><font color="DeepSkyBlue"><b>IEEE Control Systems Letters (L-CSS)</b></font>, 8: 3392-3397, 2025.</div>
+   <div><font color="DeepSkyBlue"><b>IEEE Control Systems Letters (L-CSS)</b></font>, 8: 3392-3397, 2024.</div>
 
 4. ["Verification of Initial-and-Final-State Opacity for Unambiguous Weighted Automata"](https://www.sciencedirect.com/science/article/pii/S0019057824001277)  
    Liren Shen, **Shaowen Miao**, Aiwen Lai*, and Jan Komenda
@@ -46,12 +46,12 @@ author_profile: true
    <div><font color="DeepSkyBlue"><b>under rewiew</b></font>.</div>
 
 0. [""]()  
-   Peiran Liu, **Shaowen Miao**, Yiding Ji*, and Xiang Yin
+   Peiran Liu, **Shaowen Miao**, Yiding Ji*, and Xiang Yin*
    <div><font color="ForestGreen"><b>under 2nd rewiew</b></font>.</div>
 
 2. [""]()  
    **Shaowen Miao**, Aiwen Lai*, Jan Komenda, and S&eacute;bastien Lahaye
-   <div><font color="Chocolate"><b>under 2nd rewiew</b></font>.</div>
+   <div><font color="Chocolate"><b>under 3rd rewiew</b></font>.</div>
    <!-- <div><font color="Orange"><b>under 2nd rewiew</b></font>.</div> -->
 
 8. [""]()  
@@ -59,6 +59,10 @@ author_profile: true
    <div><font color="Chocolate"><b>under 2nd rewiew</b></font>.</div>
 
 # Conference Papers
+
+6. ["A Task Decomposition Approach for Signal Temporal Logic Control"]()
+   Yangrui Zhang, Shiheng Zhang, **Shaowen Miao**, and Yiding Ji*
+   <div><font color="FireBrick">13rd China Automation Congress (CAC)</font>, accepted, 2025.</div>
 
 5. ["Supervisory Control for Current-State E-Opacity Enforcement under Encrypted Observations"]()  
    Yonghong Luo, **Shaowen Miao**, Weiyao Lan, and Aiwen Lai*
@@ -70,7 +74,8 @@ author_profile: true
 
 3. ["Initial-and-Final-State Detectability of Nondeterministic Finite-State Automata"](https://ieeexplore.ieee.org/document/10665365)  
    Liren Shen, **Shaowen Miao**, Aiwen Lai*, Jan Komenda, and S&eacute;bastien Lahaye<br>
-    <div><font color="FireBrick">14th Asian Control Conference (ASCC)</font>, pp. 509-514, 2024.</div>
+   <!-- <div><font color="SkyBlue">14th Asian Control Conference (ASCC)</font>, pp. 509-514, 2024.</div> -->
+   <div><font color="FireBrick">14th Asian Control Conference (ASCC)</font>, pp. 509-514, 2024.</div>
 
 2. ["Verification of Delayed Detectability for Unambiguous Weighted Automata"](https://ieeexplore.ieee.org/document/10708371)  
    Guoqiang Xu, **Shaowen Miao**, Aiwen Lai*, and Weiyao Lan<br>
