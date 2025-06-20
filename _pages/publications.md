@@ -22,7 +22,7 @@ author_profile: true
    <div><font color="DeepSkyBlue"><b>IEEE Transactions on Automation Science and Engineering (T-ASE)</b></font>, early access, 2025.</div>
 
 1. ["Protect Your Knowledge: Epistemic Property Enforcement of Discrete-Event Systems with Asymmetric Information"](https://ieeexplore.ieee.org/document/11032113)  
-   **Shaowen Miao**, Bohan Cui, Yiding Ji*, and Xiang Yin*
+   **Shaowen Miao**, Bohan Cui, Yiding Ji\*, and Xiang Yin\*
    <div><font color="DeepSkyBlue"><b>IEEE Control Systems Letters (L-CSS)</b></font>, early access, 2025.</div>
 
 1. ["Decentralized Fault Diagnosis for Constant-Time Automata"](https://ieeexplore.ieee.org/document/10870273)  
@@ -46,7 +46,7 @@ author_profile: true
    <div><font color="DeepSkyBlue"><b>under rewiew</b></font>.</div>
 
 0. [""]()  
-   Peiran Liu, **Shaowen Miao**, Yiding Ji*, and Xiang Yin*
+   Peiran Liu, **Shaowen Miao**, Yiding Ji\*, and Xiang Yin\*
    <div><font color="ForestGreen"><b>under 2nd rewiew</b></font>.</div>
 
 2. [""]()  
@@ -60,7 +60,7 @@ author_profile: true
 
 # Conference Papers
 
-6. ["A Task Decomposition Approach for Signal Temporal Logic Control"]()
+6. ["A Task Decomposition Approach for Signal Temporal Logic Control"]()  
    Yangrui Zhang, Shiheng Zhang, **Shaowen Miao**, and Yiding Ji*
    <div><font color="FireBrick">13rd China Automation Congress (CAC)</font>, accepted, 2025.</div>
 
