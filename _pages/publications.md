@@ -29,21 +29,21 @@ author_profile: true
    **Shaowen Miao**, Aiwen Lai*, Jan Komenda, and S&eacute;bastien Lahaye
    <div><font color="DeepSkyBlue"><b>IEEE Control Systems Letters (L-CSS)</b></font>, 8: 3392-3397, 2024.</div>
 
+2. ["Supervisory Control of Weighted Automata With Control Delays"]()  
+   Yonghong Luo, **Shaowen Miao**, Xiao Yu, and Aiwen Lai*
+   <div><font color="DeepSkyBlue"><b>IEEE Control Systems Letters (L-CSS)</b></font>, accepted and in press.</div>
+
 4. ["Verification of Initial-and-Final-State Opacity for Unambiguous Weighted Automata"](https://www.sciencedirect.com/science/article/pii/S0019057824001277)  
    Liren Shen, **Shaowen Miao**, Aiwen Lai*, and Jan Komenda
    <div><font color="Chocolate"><b>ISA Transactions</b></font>, 148: 237-246, 2024.</div>
 
 9. [""]()  
    **Shaowen Miao**, Petr Jančar, Jan Komenda, Tom&aacute;&scaron; Masopust, and Aiwen Lai*
-   <div><font color="Crimson"><b>under rewiew</b></font>.</div>
+   <div><font color="Crimson"><b>under 2nd rewiew</b></font>.</div>
 
 7. [""]()  
    **Shaowen Miao**, Jan Komenda*, and Feng Lin
    <div><font color="Crimson"><b>under 2nd rewiew</b></font>.</div>
-
-2. [""]()  
-   Yonghong Luo, **Shaowen Miao**, and Aiwen Lai*
-   <div><font color="DeepSkyBlue"><b>under rewiew</b></font>.</div>
 
 0. [""]()  
    Peiran Liu, **Shaowen Miao**, Yiding Ji\*, and Xiang Yin\*
