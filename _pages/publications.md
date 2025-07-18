@@ -31,7 +31,7 @@ author_profile: true
 
 2. ["Supervisory Control of Weighted Automata With Control Delays"]()  
    Yonghong Luo, **Shaowen Miao**, Xiao Yu, and Aiwen Lai*
-   <div><font color="DeepSkyBlue"><b>IEEE Control Systems Letters (L-CSS)</b></font>, accepted and in press.</div>
+   <div><font color="DeepSkyBlue"><b>IEEE Control Systems Letters (L-CSS)</b></font>, accepted and in press, 2025.</div>
 
 4. ["Verification of Initial-and-Final-State Opacity for Unambiguous Weighted Automata"](https://www.sciencedirect.com/science/article/pii/S0019057824001277)  
    Liren Shen, **Shaowen Miao**, Aiwen Lai*, and Jan Komenda

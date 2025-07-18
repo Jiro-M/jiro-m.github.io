@@ -9,6 +9,7 @@ author_profile: true
 
 # Academic Organizations
 - Graduate Student Member of IEEE
+<!-- - Member of Chinese Association of Automation (CAA) -->
 
 # Journal Reviewer
 - Automatica
