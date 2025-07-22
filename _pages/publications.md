@@ -22,16 +22,16 @@ author_profile: true
    <div><font color="DeepSkyBlue"><b>IEEE Transactions on Automation Science and Engineering (T-ASE)</b></font>, early access, 2025.</div>
 
 1. ["Protect Your Knowledge: Epistemic Property Enforcement of Discrete-Event Systems with Asymmetric Information"](https://ieeexplore.ieee.org/document/11032113)  
-   **Shaowen Miao**, Bohan Cui, Yiding Ji\*, and Xiang Yin\*
+   **Shaowen Miao**, Bohan Cui, Yiding Ji*, and Xiang Yin
    <div><font color="DeepSkyBlue"><b>IEEE Control Systems Letters (L-CSS)</b></font>, early access, 2025.</div>
 
 1. ["Decentralized Fault Diagnosis for Constant-Time Automata"](https://ieeexplore.ieee.org/document/10870273)  
    **Shaowen Miao**, Aiwen Lai*, Jan Komenda, and S&eacute;bastien Lahaye
    <div><font color="DeepSkyBlue"><b>IEEE Control Systems Letters (L-CSS)</b></font>, 8: 3392-3397, 2024.</div>
 
-2. ["Supervisory Control of Weighted Automata With Control Delays"]()  
+2. ["Supervisory Control of Weighted Automata With Control Delays"](https://ieeexplore.ieee.org/document/11084896)  
    Yonghong Luo, **Shaowen Miao**, Xiao Yu, and Aiwen Lai*
-   <div><font color="DeepSkyBlue"><b>IEEE Control Systems Letters (L-CSS)</b></font>, accepted and in press, 2025.</div>
+   <div><font color="DeepSkyBlue"><b>IEEE Control Systems Letters (L-CSS)</b></font>, early access, 2025.</div>
 
 4. ["Verification of Initial-and-Final-State Opacity for Unambiguous Weighted Automata"](https://www.sciencedirect.com/science/article/pii/S0019057824001277)  
    Liren Shen, **Shaowen Miao**, Aiwen Lai*, and Jan Komenda
