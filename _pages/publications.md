@@ -17,13 +17,17 @@ author_profile: true
    **Shaowen Miao**, Jan Komenda, Tom&aacute;&scaron; Masopust, and Aiwen Lai*
    <div><font color="RoyalBlue"><b>IEEE Transactions on Automatic Control (TAC)</b></font>, conditionally accepted.</div>
 
+7. ["Hierarchical Supervisory Control of Networked and Cyber-Attacked Discrete-Event Systems"]()  
+   **Shaowen Miao**, Jan Komenda*, and Feng Lin
+   <div><font color="Crimson"><b>Automatica</b></font>, accepted, 2025.</div>
+
 5. ["Active Diagnosis of Time-Interval Automata: Time Perspectives"](https://ieeexplore.ieee.org/document/10847706)  
    **Shaowen Miao**, Jan Komenda, and Aiwen Lai*
    <div><font color="DeepSkyBlue"><b>IEEE Transactions on Automation Science and Engineering (T-ASE)</b></font>, early access, 2025.</div>
 
 1. ["Protect Your Knowledge: Epistemic Property Enforcement of Discrete-Event Systems with Asymmetric Information"](https://ieeexplore.ieee.org/document/11032113)  
    **Shaowen Miao**, Bohan Cui, Yiding Ji*, and Xiang Yin
-   <div><font color="DeepSkyBlue"><b>IEEE Control Systems Letters (L-CSS)</b></font>, early access, 2025.</div>
+   <div><font color="DeepSkyBlue"><b>IEEE Control Systems Letters (L-CSS)</b></font>, 9: 1832-1837, 2025.</div>
 
 1. ["Decentralized Fault Diagnosis for Constant-Time Automata"](https://ieeexplore.ieee.org/document/10870273)  
    **Shaowen Miao**, Aiwen Lai*, Jan Komenda, and S&eacute;bastien Lahaye
@@ -39,10 +43,6 @@ author_profile: true
 
 9. [""]()  
    **Shaowen Miao**, Petr Jančar, Jan Komenda, Tom&aacute;&scaron; Masopust, and Aiwen Lai*
-   <div><font color="Crimson"><b>under 2nd rewiew</b></font>.</div>
-
-7. [""]()  
-   **Shaowen Miao**, Jan Komenda*, and Feng Lin
    <div><font color="Crimson"><b>under 2nd rewiew</b></font>.</div>
 
 0. [""]()  
