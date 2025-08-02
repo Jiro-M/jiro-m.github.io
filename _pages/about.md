@@ -19,9 +19,9 @@ with [Prof. Aiwen Lai](https://aivens123.github.io/aiwenlai.github.io/) as my su
 [Prof. S&eacute;bastien Lahaye](https://perso-laris.univ-angers.fr/~lahaye/), [Prof. Tom&aacute;&scaron; Masopust](https://apollo.inf.upol.cz/~masopust/), [Prof. Feng Lin](https://wayne.edu/people/aa0986), and [Prof. Petr Jančar](https://phoenix.inf.upol.cz/~jancarp/).
 - I'm a PhD student at [The Hong Kong University of Science and Technology, Guangzhou (HKUST-GZ)](https://www.hkust-gz.edu.cn/), supervised by [Prof. Yiding Ji](https://personal.hkust-gz.edu.cn/jiyiding/index.html).
 
-- Email: [miaosw0706@stu.xmu.edu.cn](mailto:miaosw0706@stu.xmu.edu.cn)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[miaosw0706@gmail.com](mailto:miaosw0706@gmail.com)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[smiao585@connect.hkust-gz.edu.cn](mailto:smiao585@connect.hkust-gz.edu.cn)
+- Email: [smiao585@connect.hkust-gz.edu.cn](mailto:smiao585@connect.hkust-gz.edu.cn)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[miaosw0706@stu.xmu.edu.cn](mailto:miaosw0706@stu.xmu.edu.cn)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[miaosw0706@gmail.com](mailto:miaosw0706@gmail.com)
 
 ## Research Interests
 - **Discrete-Event Systems (DES):** Property Verification, Supervisory Control
