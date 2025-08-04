@@ -31,7 +31,7 @@ author_profile: true
 
 1. ["Decentralized Fault Diagnosis for Constant-Time Automata"](https://ieeexplore.ieee.org/document/10870273)  
    **Shaowen Miao**, Aiwen Lai*, Jan Komenda, and S&eacute;bastien Lahaye
-   <div><font color="DeepSkyBlue"><b>IEEE Control Systems Letters (L-CSS)</b></font>, 8: 3392-3397, 2024.</div>
+   <div><font color="DeepSkyBlue"><b>IEEE Control Systems Letters (L-CSS)</b></font>, 8: 3392-3397, 2025.</div>
 
 2. ["Supervisory Control of Weighted Automata With Control Delays"](https://ieeexplore.ieee.org/document/11084896)  
    Yonghong Luo, **Shaowen Miao**, Xiao Yu, and Aiwen Lai*
