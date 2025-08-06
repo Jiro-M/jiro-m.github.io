@@ -64,9 +64,9 @@ author_profile: true
    Yangrui Zhang, Shiheng Zhang, **Shaowen Miao**, and Yiding Ji*
    <div><font color="FireBrick">13rd China Automation Congress (CAC)</font>, accepted, 2025.</div>
 
-5. ["Supervisory Control for Current-State E-Opacity Enforcement under Encrypted Observations"]()  
+5. ["Supervisory Control for Current-State E-Opacity Enforcement under Encrypted Observations"](https://ieeexplore.ieee.org/document/11091176)  
    Yonghong Luo, **Shaowen Miao**, Weiyao Lan, and Aiwen Lai*
-   <div><font color="SkyBlue">37th Chinese Control and Decision Conference (CCDC)</font>, accepted, 2025.</div>
+   <div><font color="SkyBlue">37th Chinese Control and Decision Conference (CCDC)</font>, pp. 5601-5607, 2025.</div>
 
 4. ["Decidability of Probabilistic Current-State Opacity for Probabilistic Finite Automata"](https://ieeexplore.ieee.org/document/10661575)  
    Keru Chen, **Shaowen Miao**, Aiwen Lai, Ji Ma*, and Sihan Chen
