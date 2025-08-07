@@ -37,6 +37,10 @@ author_profile: true
    Yonghong Luo, **Shaowen Miao**, Xiao Yu, and Aiwen Lai*
    <div><font color="DeepSkyBlue"><b>IEEE Control Systems Letters (L-CSS)</b></font>, early access, 2025.</div>
 
+8. ["State Estimation for Discrete-Event Systems With Reliable States Under Sequential Attacks"]()  
+   Yonghong Luo, **Shaowen Miao**, and Aiwen Lai*
+   <div><font color="Chocolate"><b>European Journal of Control (EJC)</b></font>, accepted, 2025.</div>
+
 4. ["Verification of Initial-and-Final-State Opacity for Unambiguous Weighted Automata"](https://www.sciencedirect.com/science/article/pii/S0019057824001277)  
    Liren Shen, **Shaowen Miao**, Aiwen Lai*, and Jan Komenda
    <div><font color="Chocolate"><b>ISA Transactions</b></font>, 148: 237-246, 2024.</div>
@@ -53,10 +57,6 @@ author_profile: true
    **Shaowen Miao**, Aiwen Lai*, Jan Komenda, and S&eacute;bastien Lahaye
    <div><font color="Chocolate"><b>under 3rd rewiew</b></font>.</div>
    <!-- <div><font color="Orange"><b>under 2nd rewiew</b></font>.</div> -->
-
-8. [""]()  
-   Yonghong Luo, **Shaowen Miao**, and Aiwen Lai*
-   <div><font color="Chocolate"><b>under 2nd rewiew</b></font>.</div>
 
 # Conference Papers
 
