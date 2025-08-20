@@ -23,7 +23,7 @@ author_profile: true
 
 5. ["Active Diagnosis of Time-Interval Automata: Time Perspectives"](https://ieeexplore.ieee.org/document/10847706)  
    **Shaowen Miao**, Jan Komenda, and Aiwen Lai*
-   <div><font color="DodgerBlue"><b>IEEE Transactions on Automation Science and Engineering (T-ASE)</b></font>, early access, 2025.</div>
+   <div><font color="DodgerBlue"><b>IEEE Transactions on Automation Science and Engineering (T-ASE)</b></font>, 22: 11239-11249, 2025.</div>
 
 1. ["Protect Your Knowledge: Epistemic Property Enforcement of Discrete-Event Systems with Asymmetric Information"](https://ieeexplore.ieee.org/document/11032113)  
    **Shaowen Miao**, Bohan Cui, Yiding Ji*, and Xiang Yin
@@ -35,11 +35,11 @@ author_profile: true
 
 2. ["Supervisory Control of Weighted Automata With Control Delays"](https://ieeexplore.ieee.org/document/11084896)  
    Yonghong Luo, **Shaowen Miao**, Xiao Yu, and Aiwen Lai*
-   <div><font color="DeepSkyBlue"><b>IEEE Control Systems Letters (L-CSS)</b></font>, early access, 2025.</div>
+   <div><font color="DeepSkyBlue"><b>IEEE Control Systems Letters (L-CSS)</b></font>, 9: 1952-1957, 2025.</div>
 
-8. ["State Estimation for Discrete-Event Systems With Reliable States Under Sequential Attacks"]()  
+8. ["State Estimation for Discrete-Event Systems With Reliable States Under Sequential Attacks"](https://www.sciencedirect.com/science/article/pii/S0947358025001785)  
    Yonghong Luo, **Shaowen Miao**, and Aiwen Lai*
-   <div><font color="Chocolate"><b>European Journal of Control (EJC)</b></font>, accepted, 2025.</div>
+   <div><font color="Chocolate"><b>European Journal of Control (EJC)</b></font>, 85: 101349, 2025.</div>
 
 4. ["Verification of Initial-and-Final-State Opacity for Unambiguous Weighted Automata"](https://www.sciencedirect.com/science/article/pii/S0019057824001277)  
    Liren Shen, **Shaowen Miao**, Aiwen Lai*, and Jan Komenda
@@ -50,7 +50,7 @@ author_profile: true
    <div><font color="Crimson"><b>under 2nd rewiew</b></font>.</div>
 
 0. [""]()  
-   Peiran Liu, **Shaowen Miao**, Yiding Ji\*, and Xiang Yin\*
+   Peiran Liu, **Shaowen Miao**, Yiding Ji*, and Xiang Yin
    <div><font color="ForestGreen"><b>under 2nd rewiew</b></font>.</div>
 
 2. [""]()  
