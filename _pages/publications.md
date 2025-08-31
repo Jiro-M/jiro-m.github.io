@@ -37,6 +37,11 @@ author_profile: true
    Yonghong Luo, **Shaowen Miao**, Xiao Yu, and Aiwen Lai*
    <div><font color="DeepSkyBlue"><b>IEEE Control Systems Letters (L-CSS)</b></font>, 9: 1952-1957, 2025.</div>
 
+2. ["Timed Initial-State Detectability of Discrete-Event Systems by Algebraic Method"]()  
+   **Shaowen Miao**, Aiwen Lai*, Jan Komenda, and S&eacute;bastien Lahaye
+   <div><font color="Chocolate"><b>Nonlinear Analysis: Hybrid Systems (NAHS)</b></font>, accepted, 2025.</div>
+   <!-- <div><font color="Orange"><b>under 2nd rewiew</b></font>.</div> -->
+
 8. ["State Estimation for Discrete-Event Systems With Reliable States Under Sequential Attacks"](https://www.sciencedirect.com/science/article/pii/S0947358025001785)  
    Yonghong Luo, **Shaowen Miao**, and Aiwen Lai*
    <div><font color="Chocolate"><b>European Journal of Control (EJC)</b></font>, 85: 101349, 2025.</div>
@@ -52,11 +57,6 @@ author_profile: true
 0. [""]()  
    Peiran Liu, **Shaowen Miao**, Yiding Ji*, and Xiang Yin
    <div><font color="ForestGreen"><b>under 2nd rewiew</b></font>.</div>
-
-2. [""]()  
-   **Shaowen Miao**, Aiwen Lai*, Jan Komenda, and S&eacute;bastien Lahaye
-   <div><font color="Chocolate"><b>under 3rd rewiew</b></font>.</div>
-   <!-- <div><font color="Orange"><b>under 2nd rewiew</b></font>.</div> -->
 
 # Conference Papers
 
