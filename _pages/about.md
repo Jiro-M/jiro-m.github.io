@@ -24,12 +24,8 @@ with [Prof. Aiwen Lai](https://aivens123.github.io/aiwenlai.github.io/) as my su
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[miaosw0706@gmail.com](mailto:miaosw0706@gmail.com)
 
 ## Research Interests
-- **Discrete-Event Systems (DES):** Property Verification, Supervisory Control
-- **Theoretical Computer Science (TCS):** Complexity Theory
-- **Formal Methods:** Temporal Logics
-- **Game Theory:** Automata Game-Based Synthesis
-- **Reinforcement Learning**
-- **Robotics**
+- Verification and synthesis in **discrete-event systems** using **complexity theory** and **game theory**
+- Combining **formal methods** and **machine learning** for task and motion planning in **robotics**
 
 ## Hobbies
 - Badminton, Basketball
