@@ -24,7 +24,7 @@ with [Prof. Aiwen Lai](https://aivens123.github.io/aiwenlai.github.io/) as my su
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[miaosw0706@gmail.com](mailto:miaosw0706@gmail.com)
 
 ## Research Interests
-- Verification and synthesis in **discrete-event systems** using **complexity theory** and **game theory**
+- Verification and synthesis in **discrete-event systems** using **complexity** and **game theory**
 - Combining **formal methods** and **machine learning** for task and motion planning in **robotics**
 
 ## Hobbies
